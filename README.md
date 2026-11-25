@@ -23,6 +23,19 @@ data/sources.json  ──►  scripts/fetch_news.py  ──►  data/news.json  
 - `index.html` + `assets/` é um site estático: filtros por seção, busca, filtro de idioma (PT/EN), selo "novo" para os últimos 30 min e tema claro/escuro automático.
 - Por padrão o dashboard mostra só as notícias dos **últimos 30 minutos**; o seletor de período amplia para 2h, 6h, 24h ou 48h. A página recarrega os dados sozinha a cada 5 minutos.
 
+## Botão "Atualizar agora"
+
+O botão no topo do dashboard dispara a coleta no GitHub Actions na hora, espera terminar e recarrega as notícias (leva de 1 a 3 minutos, contando a publicação no GitHub Pages).
+
+Na primeira vez ele pede um **token do GitHub** (fine-grained), que fica salvo só no navegador de quem clicou:
+
+1. Acesse https://github.com/settings/personal-access-tokens/new
+2. *Repository access* → *Only select repositories* → `Site-cafe-em-codigo`
+3. *Permissions* → *Repository permissions* → **Actions: Read and write**
+4. Gere o token e cole no dashboard.
+
+O ⚙ ao lado do botão troca ou apaga o token. Sem token, dá para rodar pelo GitHub em **Actions → Atualizar notícias → Run workflow**.
+
 ## Rodar localmente
 
 ```bash

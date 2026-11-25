@@ -12,6 +12,10 @@
   const FRESH_MIN = 30;
   const $ = (sel) => document.querySelector(sel);
 
+  // Repositório e workflow que fazem a coleta (GitHub Actions)
+  const GH = { repo: "cilenedanta/Site-cafe-em-codigo", workflow: "update-news.yml" };
+  const TOKEN_KEY = "cec-gh-token";
+
   const fmtTime = new Intl.DateTimeFormat("pt-BR", { hour: "2-digit", minute: "2-digit" });
   const fmtDate = new Intl.DateTimeFormat("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
   const rtf = new Intl.RelativeTimeFormat("pt-BR", { numeric: "auto" });
@@ -128,7 +132,7 @@
     const totalRaw = state.data.categories.reduce((n, c) => n + c.items.length, 0);
     if (totalRaw === 0) {
       board.innerHTML = `<div class="notice"><strong>Ainda não há notícias coletadas.</strong>
-        Rode <code>python scripts/fetch_news.py</code> ou dispare o workflow <code>Atualizar notícias</code> no GitHub Actions.</div>`;
+        Clique em <strong style="display:inline;font-size:inherit">Atualizar agora</strong>, no topo da página, para buscar as primeiras.</div>`;
       return;
     }
     board.innerHTML = cats.map((c) => {
@@ -244,5 +248,151 @@
     renderSources();
   }
 
+  /* ---------- Botão "Atualizar agora" ---------- */
+
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  let refreshing = false;
+
+  function getToken() { try { return localStorage.getItem(TOKEN_KEY) || ""; } catch { return ""; } }
+  function setToken(t) { try { t ? localStorage.setItem(TOKEN_KEY, t) : localStorage.removeItem(TOKEN_KEY); } catch {} }
+
+  function setStatus(html, kind = "") {
+    const el = $("#refresh-status");
+    el.className = `refresh__status ${kind}`;
+    el.innerHTML = html;
+  }
+
+  function setBusy(busy) {
+    const btn = $("#refresh");
+    btn.disabled = busy;
+    btn.classList.toggle("busy", busy);
+  }
+
+  class GhError extends Error {
+    constructor(status, message) { super(message); this.status = status; }
+  }
+
+  async function gh(path, opts = {}) {
+    const res = await fetch(`https://api.github.com/repos/${GH.repo}${path}`, {
+      ...opts,
+      headers: {
+        Accept: "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+        Authorization: `Bearer ${getToken()}`,
+        ...(opts.body ? { "Content-Type": "application/json" } : {}),
+      },
+    });
+    if (!res.ok) {
+      let msg = "";
+      try { msg = (await res.json()).message || ""; } catch {}
+      throw new GhError(res.status, msg);
+    }
+    return res.status === 204 ? null : res.json();
+  }
+
+  function openDialog(error = "") {
+    const dlg = $("#token-dialog");
+    $("#token-input").value = "";
+    $("#token-error").textContent = error;
+    $("#token-forget").hidden = !getToken();
+    if (typeof dlg.showModal === "function") dlg.showModal();
+    else window.open($("#workflow-link").href, "_blank", "noopener");
+    $("#token-input").focus();
+  }
+
+  async function runRefresh() {
+    if (refreshing) return;
+    if (!getToken()) { openDialog(); return; }
+    refreshing = true;
+    setBusy(true);
+    const before = state.data && state.data.generated_at;
+    try {
+      setStatus("Disparando a coleta no GitHub…");
+      const repo = await gh("");
+      const started = Date.now();
+      await gh(`/actions/workflows/${GH.workflow}/dispatches`, {
+        method: "POST",
+        body: JSON.stringify({ ref: repo.default_branch }),
+      });
+
+      // 1) espera a execução do workflow terminar
+      let run = null;
+      while (Date.now() - started < 5 * 60 * 1000) {
+        await sleep(5000);
+        const { workflow_runs: runs = [] } = await gh(
+          `/actions/workflows/${GH.workflow}/runs?event=workflow_dispatch&per_page=5`
+        );
+        run = runs.find((r) => new Date(r.created_at).getTime() >= started - 60 * 1000) || null;
+        const secs = Math.round((Date.now() - started) / 1000);
+        if (!run) { setStatus(`Aguardando o GitHub iniciar a coleta… ${secs}s`); continue; }
+        if (run.status === "completed") break;
+        setStatus(`Coletando notícias dos feeds… ${secs}s`);
+      }
+      if (!run || run.status !== "completed") {
+        throw new GhError(0, "A coleta está demorando mais que o normal.");
+      }
+      if (run.conclusion !== "success") {
+        setStatus(`A coleta falhou no GitHub. <a href="${esc(safeUrl(run.html_url))}" target="_blank" rel="noopener noreferrer">Ver detalhes</a>`, "err");
+        return;
+      }
+
+      // 2) espera o site publicar o novo news.json (GitHub Pages leva ~1 min)
+      const published = Date.now();
+      while (Date.now() - published < 4 * 60 * 1000) {
+        setStatus(`Coleta concluída. Publicando no site… ${Math.round((Date.now() - published) / 1000)}s`);
+        await sleep(8000);
+        try {
+          const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
+          const fresh = await res.json();
+          if (fresh.generated_at && fresh.generated_at !== before) {
+            state.data = fresh;
+            updatedLabel();
+            renderAll();
+            renderSources();
+            setStatus("Pronto! Notícias atualizadas.", "ok");
+            setTimeout(() => setStatus(""), 8000);
+            return;
+          }
+        } catch {}
+      }
+      setStatus("Coleta concluída. O site ainda está publicando; recarregue a página em alguns minutos.", "ok");
+    } catch (err) {
+      if (err.status === 401) {
+        setToken("");
+        setStatus("");
+        openDialog("O token foi recusado pelo GitHub (inválido ou expirado). Gere um novo.");
+      } else if (err.status === 403 || err.status === 404) {
+        setStatus("");
+        openDialog("O token não tem permissão para rodar o workflow. Confira se ele inclui o repositório Site-cafe-em-codigo e a permissão Actions: Read and write.");
+      } else {
+        const link = `https://github.com/${GH.repo}/actions/workflows/${GH.workflow}`;
+        setStatus(`${esc(err.message || "Não foi possível falar com o GitHub.")} <a href="${link}" target="_blank" rel="noopener noreferrer">Abrir no GitHub</a>`, "err");
+      }
+    } finally {
+      refreshing = false;
+      setBusy(false);
+    }
+  }
+
+  function bindRefresh() {
+    $("#workflow-link").href = `https://github.com/${GH.repo}/actions/workflows/${GH.workflow}`;
+    $("#refresh").addEventListener("click", runRefresh);
+    $("#refresh-settings").addEventListener("click", () => openDialog());
+    $("#token-cancel").addEventListener("click", () => $("#token-dialog").close());
+    $("#token-forget").addEventListener("click", () => {
+      setToken("");
+      $("#token-dialog").close();
+      setStatus("Token removido deste navegador.");
+    });
+    $("#token-form").addEventListener("submit", (e) => {
+      const t = $("#token-input").value.trim();
+      if (!t) { e.preventDefault(); $("#token-error").textContent = "Cole o token antes de salvar."; return; }
+      setToken(t);
+      // o dialog fecha sozinho (method="dialog"); dispara a coleta em seguida
+      setTimeout(runRefresh, 0);
+    });
+  }
+
+  bindRefresh();
   init();
 })();

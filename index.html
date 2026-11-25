@@ -23,6 +23,13 @@
       <div class="meta">
         <p id="today" class="meta__date"></p>
         <p id="updated" class="meta__updated">Carregando…</p>
+        <div class="refresh">
+          <button id="refresh" class="refresh__btn" type="button">
+            <span class="refresh__icon" aria-hidden="true">↻</span> Atualizar agora
+          </button>
+          <button id="refresh-settings" class="refresh__gear" type="button" title="Configurar token do GitHub" aria-label="Configurar token do GitHub">⚙</button>
+        </div>
+        <p id="refresh-status" class="refresh__status" role="status" aria-live="polite"></p>
       </div>
     </div>
   </header>
@@ -66,6 +73,32 @@
   <footer class="wrap foot">
     <p>Coleta automática a cada 30 minutos por GitHub Actions · <a href="data/news.json">dados em JSON</a></p>
   </footer>
+
+  <dialog id="token-dialog" class="dialog">
+    <form method="dialog" id="token-form">
+      <h2>Atualizar notícias agora</h2>
+      <p>A coleta roda no GitHub Actions. Para disparar pelo botão, cole um <strong>token do GitHub</strong> uma única vez.
+        Ele fica salvo <strong>só neste navegador</strong> e nunca vai para o código do site.</p>
+      <ol>
+        <li>Abra <a id="token-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">GitHub → criar token (fine-grained)</a>.</li>
+        <li>Em <em>Repository access</em>, escolha <em>Only select repositories</em> → <strong>Site-cafe-em-codigo</strong>.</li>
+        <li>Em <em>Permissions → Repository permissions</em>, deixe <strong>Actions: Read and write</strong>.</li>
+        <li>Gere, copie e cole aqui:</li>
+      </ol>
+      <label class="dialog__field">
+        <span class="sr-only">Token do GitHub</span>
+        <input id="token-input" type="password" placeholder="github_pat_…" autocomplete="off" spellcheck="false">
+      </label>
+      <p id="token-error" class="dialog__error" role="alert"></p>
+      <div class="dialog__actions">
+        <button type="button" id="token-forget" class="link-btn" hidden>Esquecer token salvo</button>
+        <span class="spacer"></span>
+        <button type="button" id="token-cancel" class="btn-ghost">Cancelar</button>
+        <button type="submit" id="token-save" class="btn-primary">Salvar e atualizar</button>
+      </div>
+      <p class="dialog__alt">Prefere sem token? <a id="workflow-link" target="_blank" rel="noopener noreferrer">Abra o workflow no GitHub</a> e clique em <em>Run workflow</em>.</p>
+    </form>
+  </dialog>
 
   <script src="assets/app.js"></script>
 </body>
