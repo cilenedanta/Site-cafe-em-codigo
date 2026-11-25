@@ -1,26 +1,1170 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-11-25T11:59:27+00:00",
   "max_age_hours": 48,
   "categories": [
     {
       "id": "tecnologia",
       "label": "Tecnologia",
-      "items": []
+      "items": [
+        {
+          "title": "É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+          "link": "https://tecnoblog.net/noticias/e-dificil-imaginar-que-humanidade-mantera-o-controle-diz-meta-sobre-ia/",
+          "summary": "Em post, diretor de inteligência artificial da big tech destaca a chegada iminente da chamada superinteligência. É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+          "published": "2026-11-25T11:52:34+00:00",
+          "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/tecnocast-384_capa.png",
+          "source": "Tecnoblog",
+          "feed": "Tecnoblog",
+          "lang": "pt"
+        },
+        {
+          "title": "XBOX Series X leva vantagem sobre o PS5 em cenas pesadas de GTA 6; entenda por quê",
+          "link": "https://canaltech.com.br/games/xbox-series-x-leva-vantagem-sobre-o-ps5-em-cenas-pesadas-de-gta-6-entenda-por-que/",
+          "summary": "XBOX Series X leva vantagem sobre o PS5 em cenas pesadas de GTA 6; entenda por quê Uma comparação de GTA 6 entre o PS5 e XBOX Series X mostrou que o console da Microsoft entrega o jogo com uma maior estabilidade na taxa de quadros . A vantagem fica ainda mais…",
+          "published": "2026-11-25T11:40:08+00:00",
+          "image": "https://tl.ctcdn.com.br/ArXKm3S3ymuqt3HngzP6JhQxGLM=/1200x675/smart/filters:format(webp):quality(85)/49917f5b-00ec-4eec-8d8c-184787e305f6.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Steven Spielberg vai se aventurar em gênero inédito em novo filme; veja qual",
+          "link": "https://canaltech.com.br/entretenimento/steven-spielberg-vai-se-aventurar-em-genero-inedito-em-novo-filme-veja-qual/",
+          "summary": "Steven Spielberg vai se aventurar em gênero inédito em novo filme; veja qual Conhecido por clássicos como Tubarão (1975) e E.T. O Extraterrestre (1982), Steven Spielberg vai se aventurar por um gênero inédito em sua carreira graças ao seu novo projeto, que…",
+          "published": "2026-11-25T11:32:00+00:00",
+          "image": "https://tl.ctcdn.com.br/MLeTz1-EZ2pYbTB9UsNbkHqut0E=/1200x675/smart/filters:format(webp):quality(85)/fd4a9f8b-acfc-4634-a7db-9fe679e783cf.png",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Ar-condicionado portátil ou split: qual compensa na Black Friday?",
+          "link": "https://canaltech.com.br/eletro/ar-condicionado-portatil-ou-split-qual-compensa-na-black-friday/",
+          "summary": "Ar-condicionado portátil ou split: qual compensa na Black Friday? Quem está pensando em comprar um ar-condicionado na Black Friday pode encontrar ofertas interessantes tanto nos modelos portáteis quanto nos tradicionais split. Mas, antes de partir para a…",
+          "published": "2026-11-25T11:30:00+00:00",
+          "image": "https://tl.ctcdn.com.br/yLP6YzFA1nbObtiRbcpi7MdjRBc=/1200x675/smart/filters:format(webp):quality(85)/b6a7df47-e642-4fa4-b6a9-93253fb46eee.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Justiça derruba liminar e restabelece regras para vale-refeição",
+          "link": "https://olhardigital.com.br/2026/11/25/pro/justica-derruba-liminar-e-restabelece-regras-para-vale-refeicao/",
+          "summary": "Decisão devolve validade às novas regras do PAT, com prazo de 15 dias para repasses e aceitação de todas as bandeiras nas maquininhas O post Justiça derruba liminar e restabelece regras para vale-refeição apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T11:13:07+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+          "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had…",
+          "published": "2026-11-25T11:12:42+00:00",
+          "image": null,
+          "source": "The Verge",
+          "feed": "The Verge",
+          "lang": "en"
+        },
+        {
+          "title": "Silent Hill 1 ganha port nativo grátis para PC com Ray Tracing, HDR e novas texturas",
+          "link": "https://canaltech.com.br/games/silent-hill-1-ganha-port-nativo-gratis-para-pc-com-ray-tracing-hdr-e-novas-texturas/",
+          "summary": "Silent Hill 1 ganha port nativo grátis para PC com Ray Tracing, HDR e novas texturas Depois de muitos anos apagada, a Konami retornou nos últimos anos trazendo de volta a icônica franquia Silent Hill. Depois do remake do segundo jogo e de outros dois títulos…",
+          "published": "2026-11-25T11:05:00+00:00",
+          "image": "https://tl.ctcdn.com.br/VYthbNaSQP0VuWCgrbigF7COTEs=/1200x675/smart/filters:format(webp):quality(85)/2332cc73-1b59-4670-b90b-7e38d2ec2bd8.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Jogos de hoje (25/11/26): onde assistir futebol ao vivo e horários das partidas",
+          "link": "https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/jogos-de-hoje-25-11-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/",
+          "summary": "Quer saber quem joga hoje? Confira horários e onde assistir ao vivo aos jogos de hoje (25/11/26) do futebol do Brasil e do mundo na TV e no streaming O post Jogos de hoje (25/11/26): onde assistir futebol ao vivo e horários das partidas apareceu primeiro em…",
+          "published": "2026-11-25T11:00:00+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Primeiro estrangeiro chega à Estação Espacial da China",
+          "link": "https://olhardigital.com.br/2026/11/25/ciencia-e-espaco/primeiro-estrangeiro-chega-a-estacao-espacial-da-china/",
+          "summary": "Zeeshan Ali passou sete meses em treinamento na China antes de se tornar o primeiro estrangeiro a embarcar na estação Tiangong O post Primeiro estrangeiro chega à Estação Espacial da China apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T10:35:13+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Capas revelam visual diferente nos Galaxy S27 Pro e Ultra; veja o que muda",
+          "link": "https://canaltech.com.br/smartphone/capas-revelam-visual-diferente-nos-galaxy-s27-pro-e-ultra-veja-o-que-muda/",
+          "summary": "Capas revelam visual diferente nos Galaxy S27 Pro e Ultra; veja o que muda Capinhas dos quatro celulares da linha Galaxy S27 apareceram em um vídeo e revelaram possíveis mudanças no design dos próximos topos de linha da Samsung . As imagens mostram diferenças…",
+          "published": "2026-11-25T10:34:42+00:00",
+          "image": "https://tl.ctcdn.com.br/ebJy1L4aYjkrurefwOsxPCcqh98=/1200x675/smart/filters:format(webp):quality(85)/e6331ead-59e8-4f5e-b8c5-172b3f3eb8ce.png",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Samsung prepara o Galaxy Z TriFold 2 para 2027, com design mais fino e leve",
+          "link": "https://canaltech.com.br/smartphone/samsung-prepara-o-galaxy-z-trifold-2-para-2027-com-design-mais-fino-e-leve/",
+          "summary": "Samsung prepara o Galaxy Z TriFold 2 para 2027, com design mais fino e leve A Samsung já trabalha no Galaxy Z TriFold 2 , seu próximo celular com três partes dobráveis, que pode chegar ao mercado em meados de 2027 . O aparelho deve ter um design mais fino…",
+          "published": "2026-11-25T10:01:54+00:00",
+          "image": "https://tl.ctcdn.com.br/yfQc2HTeYXEtQ7Zf-bXqFW1mPQQ=/1200x675/smart/filters:format(webp):quality(85)/dd2411a8-9a06-42ad-af8d-5f7afb9b3883.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Que multas podem suspender sua CNH antes do limite de pontos?",
+          "link": "https://canaltech.com.br/carros/que-multas-podem-suspender-sua-cnh-antes-do-limite-de-pontos/",
+          "summary": "Que multas podem suspender sua CNH antes do limite de pontos? Você não precisa acumular 20, 30 ou 40 pontos na carteira para ficar sem dirigir. O Código de Trânsito Brasileiro (CTB) prevê uma série de infrações autossuspensivas , que podem levar à suspensão…",
+          "published": "2026-11-25T10:01:00+00:00",
+          "image": "https://tl.ctcdn.com.br/klE09kTCvWP3mEkOpNTltL1Sh-k=/1200x675/smart/filters:format(webp):quality(85)/252aee55-967c-4465-b6ee-713873aef648.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Qual Xiaomi comprar na Black Friday? 6 celulares por orçamento",
+          "link": "https://canaltech.com.br/smartphone/qual-xiaomi-comprar-na-black-friday-6-celulares-por-orcamento/",
+          "summary": "Qual Xiaomi comprar na Black Friday? 6 celulares por orçamento A Xiaomi divide seus smartphones em três famílias com propostas diferentes: Redmi , para quem prioriza custo-benefício; POCO , voltada a desempenho e jogos; e Xiaomi , que concentra os aparelhos…",
+          "published": "2026-11-25T10:00:00+00:00",
+          "image": "https://tl.ctcdn.com.br/0bT2dKyYecDPzCCHqtZTepI_Bnk=/1200x675/smart/filters:format(webp):quality(85)/8a2d3995-a157-4e42-a33d-f832e3abd2c6.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Lua hoje: confira a fase da Lua desta quarta-feira 25/11/2026",
+          "link": "https://olhardigital.com.br/2026/11/25/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-desta-quarta-feira-25-11-2026/",
+          "summary": "Em qual fase a Lua está hoje, 25 de novembro de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua desta quarta-feira 25/11/2026 apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T09:54:00+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Resumo do OD: bomba nuclear espacial; desculpas de Huang; guerra do delivery",
+          "link": "https://olhardigital.com.br/2026/11/25/pro/resumo-do-od-bomba-nuclear-espacial-desculpas-de-huang-guerra-do-delivery/",
+          "summary": "O CEO da Nvidia, Jensen Huang, pediu desculpas aos funcionários da empresa nesta terça-feira (24), durante sua primeira reunião geral desde que foi reconduzido ao cargo. O executivo reconheceu que violou o código de conduta da companhia, admitiu ter cometido…",
+          "published": "2026-11-25T08:51:54+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Atlético-MG x Corinthians: onde assistir, horário e escalações do jogo do Brasileirão",
+          "link": "https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/atletico-mg-x-corinthians-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao-2/",
+          "summary": "Confira onde assistir, horário e escalações prováveis de Atlético-MG x Corinthians; jogo vale pela 36ª rodada do Brasileirão 2026 O post Atlético-MG x Corinthians: onde assistir, horário e escalações do jogo do Brasileirão apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T08:30:00+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "PSG x Roma: onde assistir, horário e escalações do jogo da Champions League",
+          "link": "https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/psg-x-roma-onde-assistir-ao-jogo-da-champions-league-2026-2027/",
+          "summary": "Confira onde assistir, horário e prováveis escalações de PSG e Roma; duelo é válido pela 5ª rodada da Champions League O post PSG x Roma: onde assistir, horário e escalações do jogo da Champions League apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T08:10:00+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Sabah x Barcelona: onde assistir, horário e escalações do jogo da Champions League",
+          "link": "https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/sabah-x-barcelona-onde-assistir-ao-jogo-da-champions-league-2026-2027/",
+          "summary": "Nesta quarta-feira (25), Sabah e Barcelona se enfrentam pela quinta rodada da fase de liga da Champions League. A bola rola às 14h45 (horário de Brasília) no Estádio Olímpico de Bakú, no Azerbaijão. Confira aqui a tabela com todos os jogos de hoje! Onde…",
+          "published": "2026-11-25T08:00:00+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Fala AI: bomba nuclear russa no espaço pode deixar a Terra sem internet?",
+          "link": "https://olhardigital.com.br/2026/11/25/colunistas/fala-ai-bomba-nuclear-russa-no-espaco-pode-deixar-a-terra-sem-internet/",
+          "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, analisa os impactos de uma eventual detonação nuclear em órbita O post Fala AI: bomba nuclear russa no espaço pode deixar a Terra sem internet? apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T03:42:39+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Confira o Olhar Digital News na íntegra (24/11/2026)",
+          "link": "https://olhardigital.com.br/2026/11/25/videos/confira-o-olhar-digital-news-na-integra-24-11-2026/",
+          "summary": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje! O post Confira o Olhar Digital News na íntegra (24/11/2026) apareceu primeiro em Olhar Digital .",
+          "published": "2026-11-25T03:42:08+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Chefe do Instagram reafirma que app não “escuta” o que você diz",
+          "link": "https://tecnoblog.net/noticias/chefe-do-instagram-reafirma-que-app-nao-escuta-o-que-voce-diz/",
+          "summary": "Adam Mosseri fala mais uma vez sobre o tema e garante que aplicativo não usa microfone do celular para direcionar anúncios aos usuários. Chefe do Instagram reafirma que app não “escuta” o que você diz",
+          "published": "2026-11-25T03:40:34+00:00",
+          "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/adam-mosseri.jpg",
+          "source": "Tecnoblog",
+          "feed": "Tecnoblog",
+          "lang": "pt"
+        },
+        {
+          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+          "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a…",
+          "published": "2026-11-25T01:00:00+00:00",
+          "image": null,
+          "source": "The Verge",
+          "feed": "The Verge",
+          "lang": "en"
+        },
+        {
+          "title": "The Verge’s 2026 gift guide for dads",
+          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+          "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and…",
+          "published": "2026-11-24T23:59:29+00:00",
+          "image": null,
+          "source": "The Verge",
+          "feed": "The Verge",
+          "lang": "en"
+        },
+        {
+          "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+          "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+          "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated…",
+          "published": "2026-11-24T23:25:46+00:00",
+          "image": null,
+          "source": "The Verge",
+          "feed": "The Verge",
+          "lang": "en"
+        },
+        {
+          "title": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe",
+          "link": "https://canaltech.com.br/games/site-mostra-ao-vivo-progresso-dos-ports-de-gta-6-para-o-pc-acompanhe/",
+          "summary": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe Jogadores agora podem acompanhar o progresso da recompilação de GTA 6 para o PC \"ao vivo\" por meio do site PortWatchVI. O portal monitora 30 projetos ao escanear toda a internet a cada três…",
+          "published": "2026-11-24T23:20:00+00:00",
+          "image": "https://tl.ctcdn.com.br/8PN9WFpNqWxfHLtBDUr0h5pOmrQ=/1200x675/smart/filters:format(webp):quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade",
+          "link": "https://canaltech.com.br/apps/gemini-pode-ganhar-recurso-para-criar-vozes-personalizadas-com-sotaque-tom-e-velocidade/",
+          "summary": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade O Google está desenvolvendo um recurso que permitirá aos usuários do Gemini criar vozes personalizadas para a inteligência artificial (IA). A ferramenta deve funcionar…",
+          "published": "2026-11-24T23:01:00+00:00",
+          "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+          "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+          "published": "2026-11-24T22:50:11+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
+          "source": "Ars Technica",
+          "feed": "Ars Technica",
+          "lang": "en"
+        },
+        {
+          "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+          "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+          "published": "2026-11-24T22:36:28+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
+          "source": "Ars Technica",
+          "feed": "Ars Technica",
+          "lang": "en"
+        },
+        {
+          "title": "Relâmpago: Galaxy Z Flip 7 tem menor preço histórico na Black Week do Mercado Livre",
+          "link": "https://tecnoblog.net/achados/relampago-galaxy-z-flip-7-tem-menor-preco-historico-na-black-week-do-mercado-livre/",
+          "summary": "Galaxy Z Flip 7 (256 GB) tem mais de 60% de desconto em promoção relâmpago no Mercado Livre; celular se destaca pela tela dobrável e desempenho avançado Relâmpago: Galaxy Z Flip 7 tem menor preço histórico na Black Week do Mercado Livre",
+          "published": "2026-11-24T22:28:52+00:00",
+          "image": "https://www.youtube.com/embed/GUgGhyowSdM",
+          "source": "Tecnoblog",
+          "feed": "Tecnoblog",
+          "lang": "pt"
+        },
+        {
+          "title": "Huawei found guilty of stealing trade secrets",
+          "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source…",
+          "published": "2026-11-24T22:23:27+00:00",
+          "image": null,
+          "source": "The Verge",
+          "feed": "The Verge",
+          "lang": "en"
+        }
+      ]
     },
     {
       "id": "carreira",
       "label": "Carreira em Tecnologia",
-      "items": []
+      "items": [
+        {
+          "title": "OSCP+ New Scoring System (Dec 1, 2026): PEN-200 Guide, Exam Cost in India & 90-Day Pass Strategy",
+          "link": "https://dev.to/securiumacademy/oscp-new-scoring-system-dec-1-2026-pen-200-guide-exam-cost-in-india-90-day-pass-strategy-3kki",
+          "summary": "Starting December 1, 2026 (08:00 GMT) , OffSec retires the flat 70/100 raw-point pass mark for the OSCP+ (PEN-200) exam and introduces equated scaled scoring (100–500 scale, passing score: 400) . Stopping at \"70 estimated points\" is now the fastest way to…",
+          "published": "2026-11-25T11:40:29+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Why Gen-Z Design Engineers Don't Want to Draw Rectangles All Day",
+          "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-gen-z-design-engineers-dont-want-to-draw-rectangles-all-day-dh1",
+          "summary": "A new generation of builders thinks in components, springs, and tokens—not detached vector layers. The Problem With Static Mockups Forcing hybrid designer-engineers to work in a tool that can't run real logic or export real code slows down the people who ship…",
+          "published": "2026-11-25T11:40:23+00:00",
+          "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvaeh0fhtrfu05r23dnz2.jpg",
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "The freelance paper trail: keeping a project from proposal to payment without losing the thread",
+          "link": "https://dev.to/revercue/the-freelance-paper-trail-keeping-a-project-from-proposal-to-payment-without-losing-the-thread-274d",
+          "summary": "A freelance project rarely dies loudly. It dies in the gap between \"sounds good, send it over\" and the money arriving. The proposal lives in a DM, the scope was agreed on a call, the contract is a PDF nobody opened, and the invoice is in a different app with…",
+          "published": "2026-11-25T11:38:27+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "How to Detect AI-Generated Essays in 2027 Without Relying on Guesswork",
+          "link": "https://dev.to/ivan609/how-to-detect-ai-generated-essays-in-2027-without-relying-on-guesswork-3bbn",
+          "summary": "A practical guide to AI content detection, writing analysis, false positives, and evidence-based academic review. Artificial intelligence has made writing faster and more accessible. With tools like ChatGPT, Claude, and Gemini, generating an entire essay can…",
+          "published": "2026-11-25T11:16:39+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Common Mistakes New Bettors Make on 1xBet and How to Avoid Them",
+          "link": "https://dev.to/fan_video_95569f05828dbbd/common-mistakes-new-bettors-make-on-1xbet-and-how-to-avoid-them-2fc3",
+          "summary": "1xBet is just a well-known international sports betting and online gaming manufacturer that draws users interested in sports markets, stay functions, and digital entertainment. Several users seek out 1xBet agents, particularly in Egypt, to know the way…",
+          "published": "2026-11-25T11:15:54+00:00",
+          "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fet89xi0qf5dwwxyzddo3.jpg",
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "I measured 119 junior job ads for what they actually demand. The horror stories live elsewhere",
+          "link": "https://dev.to/reaver1000/i-measured-119-junior-job-ads-for-what-they-actually-demand-the-horror-stories-live-elsewhere-43m3",
+          "summary": "Everyone in the junior market knows the complaints. Junior roles asking for twelve years of experience. Graduate jobs that want you to already have used Jira. Ads that list fifteen technologies for an entry-level salary. I have made the same complaints. The…",
+          "published": "2026-11-25T11:12:53+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Where to Learn Ethical Hacking in Lagos, Nigeria (2026 Beginner's Guide)",
+          "link": "https://dev.to/marioghae_victor_73b07b5d/where-to-learn-ethical-hacking-in-lagos-nigeria-2026-beginners-guide-2d1",
+          "summary": "If you want to learn ethical hacking in Lagos , you have four main options: a physical training centre , an online course or bootcamp , a university programme , or self-study with free practice labs. For most beginners, a practical course that starts with…",
+          "published": "2026-11-25T11:04:41+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "You Compared the Two Build Tools Side by Side and Paid for a Difference You Would Never Feel",
+          "link": "https://dev.to/sergueyasaelshinder/you-compared-the-two-build-tools-side-by-side-and-paid-for-a-difference-you-would-never-feel-4e4i",
+          "summary": "Two build tools. One afternoon to choose. You ran them both on the same project, in the same terminal, one after the other. Forty six seconds. Thirty eight seconds. Side by side, eight seconds looked enormous. Almost a fifth faster. So you chose the fast one…",
+          "published": "2026-11-25T11:00:54+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "You Have Been Offered a Job as a Developer Advocate",
+          "link": "https://dev.to/asael_shinder_9f53bdca840/you-have-been-offered-a-job-as-a-developer-advocate-3c1m",
+          "summary": "You have written a few blog posts about the database your team uses, and you gave a talk about it at a local meetup. A few weeks later, someone from the company that makes it gets in touch. They are hiring developer advocates and they think you would be good…",
+          "published": "2026-11-25T10:47:18+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "How I measure collaboration from GitHub reviews",
+          "link": "https://dev.to/4thwithme/how-i-measure-collaboration-from-github-reviews-4b41",
+          "summary": "\"Good team player\" is in almost every review. It is nice. It also says nothing. I wanted to see collaboration in data, so I looked at what GitHub already knows about my reviews. Four numbers that tell a lot 1. Reviews per own PR. Take the reviews you gave to…",
+          "published": "2026-11-25T10:46:41+00:00",
+          "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhvb58zl93mxntmn0ime.png",
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "What to Expect from a CPMAI Certification Course Online",
+          "link": "https://dev.to/keerthana_v_6111ef241b10c/what-to-expect-from-a-cpmai-certification-course-online-52f3",
+          "summary": "Enrolling in an online PMI Certified Professional in Managing AI (PMI-CPMAI) certification course gives you a structured, vendor-neutral framework to lead AI projects from initial problem framing to production operations. Rather than teaching programming or…",
+          "published": "2026-11-25T10:21:28+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Zero-Auth Public JSON APIs for Greenhouse, Ashby & Lever Job Boards (+ Free Live Tester)",
+          "link": "https://dev.to/wonderpick/zero-auth-public-json-apis-for-greenhouse-ashby-lever-job-boards-free-live-tester-4c77",
+          "summary": "Most job-board scrapers waste proxies and headless browsers scraping aggregator sites packed with stale ghost jobs. Meanwhile, the three biggest tech-company ATS platforms ( Greenhouse , Ashby , and Lever ) expose official, unauthenticated public JSON…",
+          "published": "2026-11-25T10:13:04+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Carreira: 40% dos europeus estudam online para progredir. Há uma área que se destaca",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnlEWjFnWTVfMUxDNXRfRUxUNDQyWmpLeHZoV05VTEVjdkk0N1JUNzNMZW5hUU5ZZ1RCbHh4TGpUMkFEZTF3bU5MTzEtOHU1MUlzZE91VDVsMmlhOVE5QWxLaDZVbkVWcHlEbmpIekJWVV9HdVZzY2RwZGM2T0VPNTFfV3NaejhJd1FidUxXckx5bTU0SzloUTNPekduOGgzYmRNM2M1ZDBDU1c3N3plb0ZGYWw?oc=5",
+          "summary": "",
+          "published": "2026-11-25T09:10:00+00:00",
+          "image": null,
+          "source": "Human Resources Portugal",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Notícias SOL: Solana atua para impedir que validadores concluam trabalho em blocos que já foram perdidos",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYXZQMU1CRG9Eam5rSUxyNkRuOGNUUFFyS09RNG5HMm42ZXV6QXRnV2E4UDV5Zll0OFN3Vm1FR3B4SzhPR1lXWTQxaGJuUGxieXpRVkFyQ1dtU3ZqeVB2QjZjRGlYWXRFeU5uTUNteGhkT19tdGtLQUl1eXhmY1ZJdEc1NXB1R0JleFJ5ak5DV0Q0RjQyQmJDVEs0bnVWNW9uYW5tR2t5WUMySEtCMGFoam1WRktJMDZQXy1KUmo2UW5SSFBvR3lHako0aw?oc=5",
+          "summary": "",
+          "published": "2026-11-25T06:33:10+00:00",
+          "image": null,
+          "source": "CoinDesk",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "How to Set Up and Customize Light and Dark Mode in shadcn with Next.js",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/",
+          "summary": "If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting",
+          "published": "2026-11-25T00:14:03+00:00",
+          "image": "https://cdn.hashnode.com/uploads/covers/5e0f2c2e490269cb30227a2b/cec83f18-c647-46a4-a7ca-125aea525bed.png",
+          "source": "freeCodeCamp News",
+          "feed": "freeCodeCamp News",
+          "lang": "en"
+        },
+        {
+          "title": "How Phishing Attacks Actually Work (And How Developers Can Spot Them)",
+          "link": "https://www.freecodecamp.org/news/how-phishing-attacks-work/",
+          "summary": "Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi",
+          "published": "2026-11-24T22:32:36+00:00",
+          "image": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cb02608a-4ac9-48f2-8d81-5c5684ab9892.png",
+          "source": "freeCodeCamp News",
+          "feed": "freeCodeCamp News",
+          "lang": "en"
+        },
+        {
+          "title": "IA deve criar saldo positivo de 1,7 milhão de empregos até 2030, prevê Gartner",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzFFVHFJb2RnTzhIMWNoT0lfUXd0amNxN080MWhfVi01R3dzNUlkbERiZkRFTUtib0dOZElrQU5tVi1yMVJGNUpYZEdLVm9NaVRNcE9yQ20yRG9lWEg0QTU4R3JDSjNQaWIyenNXQUlSeHg2alRjTjBONUp3cVp6dzZQdGFZUE1xSFhsemFlSjVNQmlkLXdSR015cGJrMEp5SUpiUUtHaG9SQmZ4WDRHWUJR?oc=5",
+          "summary": "",
+          "published": "2026-11-24T21:57:12+00:00",
+          "image": null,
+          "source": "TI INSIDE Online",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "Empresa de TI global abre 40 vagas para nova turma de programa gratuito no Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUJZYkZjcE03MVc4eFVNNkwzOHZ6eUg5MVBwbDRyT1M4MFBmd0x2SUNSdUc3WVNqaFZTaHdNN0VKZnB6TENCRGZRS1lkbld5RHQtNWVWMW1keURsTkF0eEMycVlBTkxGN2dRTW9IdUdxSUpMcXJ0b0pMZVNRVG4xbnd2ZktzMlFDaUlNMFBKd0NmcG1ZbHFUMWpFeEpfWDRKaVdYVzV4bExSMlBWY0xMRGR3ZXg4RkhJYjdENnFsQzJ1czA?oc=5",
+          "summary": "",
+          "published": "2026-11-24T21:36:31+00:00",
+          "image": null,
+          "source": "ConvergenciaDigital",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Vagas de emprego: Simpress tem 88 oportunidades abertas em oito estados brasileiros | SEGS Portal...",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOThacHhfaHZ1QkRrSW8wNy05V0lDYnVGaS1pUTd0ZldINlRUUzZ0SlNWTmRIaDNOTzAzTy1XMjJQNEgweURxc1VwZ09kN3BOS3Zqb01kbC1RSjE0TmlFdzlLTTNfRmxDN3QtbXlPVWl1cllfNm5RdTRzak5wTVFJeDJ1VmZXSENlaWdLUV9PY3o1ZC1PLThlLWI3SHpSaFRlWmk5NkN1Mjh4SHpqYjdiTVdwSEE1MThUWllWUW1WaU5nd9IBxwFBVV95cUxOZlY1ZEE1NThoYURERC1SdGt2US1qRjFnVk9vV3FFY1FqSTQ4SjJneXRUbks2X0xkbXJSdXZMbFg0elp6cWJXVkVBQjB4eHVFWjFTRGEzaE9vcGttU0pFVzE1Nkt4NERCU0YtVXhoWEVkdmVJZkhiSnNaUE9NbGpyZjRReDZZbUdkN05lNTg4N2tSVDRQNmN6ZjZ6VFk2WUhQc001bS01RTEtb3JsUUdTUEZaNm0tTlBVbTFkTHY4eWo4bFRya1Rj?oc=5",
+          "summary": "",
+          "published": "2026-11-24T21:34:56+00:00",
+          "image": null,
+          "source": "SEGS Portal Nacional",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "98% das empresas têm dificuldade para contratar em tecnologia; terceirizar equipes vira saída para não atrasar projetos",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQaks1WkRQeDExNFVveXJNYlh6WU5mZ0ZXNW9wV2h5QklnMmM2R0tKZmx1d015NVBudlRrUHNmUzdqUHByUjdMcE1kU1o3b3AtU1hHQnpYS2tkbThXVFZia3FRSVI3UXdtNk9VbV9RWmxyYjEzMWxFTDUwRjhxMHdJQUd3bnFCaTkxRWVIbkR3ZUlsVERkUTlUTWdYNTJnLTRySmNQVUllNUFoQ1ZZR2QzUlAzSE84TllVSWhuRmpfMktVOXFVMUNrcXBZNmJYbnNObUZaTEE2WTEyaXZ6MmIyNFpxZllUUXYycnA4UU9ZV2M3QjBvZFNmZVVYRDhwaXJZWDNaNVJVNTFzX3RBLU5HSDJPQ2tHYThRbjMzNnpmNjdha0RwWVJtRk1B?oc=5",
+          "summary": "",
+          "published": "2026-11-24T19:33:48+00:00",
+          "image": null,
+          "source": "GZH",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Concursos 2027: editais previstos por área, estado e situação",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbEU3VGpfalI3SUVodEwtbzdWeHdxbUNWWk9ZeEpscXlCYURoRlhiUGlLYVRWYlpBVzR4R1NPMnBQY1BJVjIzUFROQUt0Uy1FUHRxM0p6VlV1U1VHZzRkeUp3?oc=5",
+          "summary": "",
+          "published": "2026-11-24T18:56:35+00:00",
+          "image": null,
+          "source": "Blog Gran Cursos Online",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "Carreira em tecnologia: por que o mercado de ADS está cada vez mais promissor?",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOam5UVnpDVC1pZlN3MTR1LVpBVTUyV2lJdnhIVTBlQkh0bWpDWGtDT1VvN0tGc3ZOYWpLRnZ5VmhTLTRiMTRYc1BnRG52OXNHVnlEdUVMY1l5WlRCSUM4VG1LSDZtNHZoS3hXRkh1anlXd0FROXJMWGd1QTdsemdUM0FKcTU4MGJmV2VRV0tRNjhLbHNUZ25LY0ZIUFRCNzB6Z29lMFI4ZGFpWXRkRkRDdXBoXzV3MFlmM2x6WExLeDlBcHRIbHBJWg?oc=5",
+          "summary": "",
+          "published": "2026-11-24T18:48:11+00:00",
+          "image": null,
+          "source": "Educa Mais Brasil",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Carreira corporativa: quais habilidades desenvolver na era da IA?",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW83S0o1akRQS1RHc0xKNXRiUGtQV0JLazZWcDFDRTJDUGUtMmJPZkYtZGdzS1RnSGotZVhvYnktQ0MzbXBTMjJvSC1xVjBBQmNOdk4zcUtIYU1Cc1ZKUG13cjNXaXlkTjlRWUFhYXYtNWN5V2FTM0VlcE9wWFBzWTFrOHk2alVjWjFUODlTZ3BwTk1IRWpaX2hxU2VCWHhhaVN4VWpWMVZyYkUyZVhwU1p4eFZaNWc?oc=5",
+          "summary": "",
+          "published": "2026-11-24T18:47:22+00:00",
+          "image": null,
+          "source": "Educa Mais Brasil",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Só 57% das vagas da Lei de Cotas estão preenchidas, apesar de milhões de aptos ao trabalho",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43OE5ocFJoNl9aTm5HWU9fZFJjSmZ3eV9ja0J3bmFWUEQtOElQTU5ZQXVYX1BKZHFjTzhDMHVDRjY1LUtMZnB6LXBXc3RfYnl2RHpKUW1TS01aald0bkxiSWM4NW9hUXhLVGdWS0N1SzV5VnYtN2RLcksxNGtudw?oc=5",
+          "summary": "",
+          "published": "2026-11-24T18:34:29+00:00",
+          "image": null,
+          "source": "Fenati",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "FSFX tem novo superintendente de TI",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BXzdBRVhzSnI2YlczVjZVNi1mZllvZ3J2RHhZYy1VeXp3c2V2RmlMeUxzZlRVQTVVWXUyNEc2MUxnNUpxSWV4X0RJR3NseE5nbkl3MkZuTHYxa0xSc290eWFOUUd3cTBMbXYya0I0MXo3ZG1lT2d6M3pzZw?oc=5",
+          "summary": "",
+          "published": "2026-11-24T17:10:45+00:00",
+          "image": null,
+          "source": "Baguete",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Grupo HS recebe 70 estudantes de Farmácia da UNINASSAU",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVZfUlhpMnZITnhoSVM3OWdIalZiTzhVTk82V1ZQblpwNUJEamRDUkVrZHE0ZjY1dzAtbUg1RnFzb200Z0hBSFhMU1ZaU2FMUWQyMkZUbEtXSXV1RzVNQm03bmx6UzJiN0RLR3ZMcEkzUEhnYTY1WGtXa0xrY2Z2UW1jS3ZGMTVhX2tTR1VXaGlxbFllNEFKVjJtTWxnYVdjSXlLbWMzX3lPQnN3bHo1bHVGa20?oc=5",
+          "summary": "",
+          "published": "2026-11-24T17:02:57+00:00",
+          "image": null,
+          "source": "Portal Terra da Luz",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Concurso Petrobras 2027: saiba mais sobre o panorama atual!",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05T0hiVU9YUzQzX2V6SjRIYzFuUXRpVWlVQ2FSWmhtZ3dYUHZUU2xGRGc3OVdJR21CMG5wRm1yQ0p1YTBIU0phcDBYRFhtMGFRRXRTZ3pOWTJSRHlRVGRWMmoxdFlHRi1iRjZB?oc=5",
+          "summary": "",
+          "published": "2026-11-24T16:57:00+00:00",
+          "image": null,
+          "source": "Estratégia Concursos",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
+          "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
+          "summary": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
+          "published": "2026-11-24T15:54:49+00:00",
+          "image": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg",
+          "source": "freeCodeCamp News",
+          "feed": "freeCodeCamp News",
+          "lang": "en"
+        },
+        {
+          "title": "Concurso Porto Alegre 2026: edital para diversos cargos!",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wQ2RublZGUDJDYzdydTZYWVpzMXdiMGdLSi00aEtJaXhKY3dDRjkyY3ZUbEJoQ0NpUkdlbXZENXlKU09lRXEzMEdZWVM1WHVFTlREcUgyQzZ2ekVnclhsTWlaX2k3czZhV196elUwVEJsQjBXbEZ2cGY5Q09BUdIBgwFBVV95cUxQOWdDRFlCbURoZmV2WTR3clpwNS0yYkFpeDJESWdGVVktb3YyZVI4aHROSHdabzlSZkxZTjg2b1BtWGxHOHZoVERFTXhZazlCNGd1dWdpcXBmWFNOaVgwT28xZ1FOMnNQMWhsdkhoMWxLdkMwcW9zVnlfdXFlM0lWZzlvSQ?oc=5",
+          "summary": "",
+          "published": "2026-11-24T14:17:00+00:00",
+          "image": null,
+          "source": "Estratégia Concursos",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "IA é assunto da área de tecnologia? Os mitos que ainda guiam decisões na alta liderança",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXQwQWp5SDIxOVNEN0tWcUprYm5VTTd3YWhSZEJpU1d1TkZBOWc1Z1hzdUVUUUlwMjVmbUFtMHN4RkF4Q3JmWnF4c0JXNkgzOTdRZXpaME9jbUk2MVlIdU1XNEpMU0ltcmw5cnJtb2RTNFpuNWRGZnpxYXpsclgwTGZlVm5GckhTN1ZlQ3l4dWhBanNSU0N5bkZtNDBGQWR5ZnlEcmJMTl9UV1ltVE1vbnFsVDU?oc=5",
+          "summary": "",
+          "published": "2026-11-24T13:26:55+00:00",
+          "image": null,
+          "source": "Exame",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        }
+      ]
     },
     {
       "id": "ia",
       "label": "IA e Impactos",
-      "items": []
+      "items": [
+        {
+          "title": "Adoção de inteligência artificial no setor jurídico impulsiona lançamento de plataforma para gestão operacional e governança",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHJObmo5d2RqbVVoR19JaUlzVzliZ09rN0FCelM2N1RXV2k2RTZhNGxQQ0R0SjgzOXhlNEYwdHd5d0xiSTVIMk4xUGphMWtybjFmOVFzVno5UzdJRjZ6LVlPRWU2QXhKRHFaWWxDNFdsUWw2M3VGd2M0U0tMai1qaW5fc1U0Rm1UYVo1NWVUbkdOOU9VWlRUNTJqTHNMSVlqM3lqUms5czE4V05tNDlKUVo1ckJNUFliV0FBdTdCZG00THVycmlGMkJnazRYUUtWSmFod2Y4UEZ5R2o1Z2FLNWdjdlV1S2VBZ1pv?oc=5",
+          "summary": "",
+          "published": "2026-11-25T11:30:10+00:00",
+          "image": null,
+          "source": "Brasil Inovador",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "STJ não admite recurso que apenas transcreveu conversa com IA",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUNqal9oWFowTVdSc0Q2azZrUTZLMFJpVGxoV3ktVk9WcGFULUdzOTJoWDNMYXZXQVFlcDk0ZnhzTVJReEt5Rk5nOFRFcGJ6OFgyM0dEUV9VS3BVQURvbllnY1pFeVFzZEZHd2JWSE0tUVc4TkEtRW9UVDR2X2RybmtoaTVSb0NIWUxGcUFSWmo4R0xqWHhTbS14Z3I0ZEtORU5FemVnTQ?oc=5",
+          "summary": "",
+          "published": "2026-11-25T10:57:00+00:00",
+          "image": null,
+          "source": "Migalhas",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Shadow AI: a ameaça que desafia CEOs e conselhos de administração",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1RKNGxVQVNCS2M3ZWYwUW1SY2xZVEFlYlB1RzNrb01hTFp6ZlRtWU91VVI1V2duSnRDbFM3eUxIREV2bU13d2RZQjdVeHRPbWd6dE1oWk1mSXpEUG1wSUd2Nk04aUVMdTJzRVBzWXQ3Z2FESVFaelR3QUY2SW52UThIWGVka1dtYUl4aURFdnZvWWUzOW5LRGVmQWppcVN6N0ctdlc3MWxjRy1Q?oc=5",
+          "summary": "",
+          "published": "2026-11-25T10:52:30+00:00",
+          "image": null,
+          "source": "NeoFeed",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "AI is straining America’s open records systems",
+          "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a…",
+          "published": "2026-11-25T10:00:00+00:00",
+          "image": null,
+          "source": "MIT Technology Review · AI",
+          "feed": "MIT Technology Review · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Do trading científico à inteligência artificial: os destaques do Profit Summit 2026",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT25Nb2VWTXppZlI4RnpCUEUzeEl6UnJJcDlNUlpwbWNXUmZfSDM0Wk9va29HWEp1Z2VVUnVDemhhZWtwNHAzbWxpVkFVb3cxNk96aUw2MWJGVnBUaU45MlVETXFKRUZ6em95dmNQcU5zdkpYSVJXcjJBaVhra1BFZ3ZfZldZM3ZaRDBYZ2tEYUFUWlNYc3hxamVScWlPVVR6OXBSUzN1UmF0UXp5WE9mUU1kNXJRbm9JZVpV0gHAAUFVX3lxTE9fWkNjdTlQVW9Ub0FTUDltalpEQk41LXcxZ1B5Mi1KcnpiVk1ZMi1TdV9HdHlqendrUHBOcVpFb1hhbklMNE5kb3FHZThSUnpsWW1Gc1g1OTQ3N0JEQjR0MzJxMWIzWnJmNGZMbXVfbHhFdC15cldQcGplQnpvZENjeWN0WmpGdFZNUGpRbU02d3hzd0lmUzIxWG51ZW41TVEyNXFPSkQxTXZJdG9aTlJFdlJCeVNsZkdhYjlZOWNJdg?oc=5",
+          "summary": "",
+          "published": "2026-11-25T09:50:00+00:00",
+          "image": null,
+          "source": "InfoMoney",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Quando a inteligência artificial vira colega de trabalho, o que cabe aos humanos?",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZjM0MnJIQkZoZjM0OHVUOWVhVjNhUFZsX3RKckVuRHIxWkxvVWNsZ0tyR2FpSWM1dlFTLWNwcVBXUElsWnFNNTlKWTRhYjBHeFVmcERmVTZkQnVFSjhBSE5HZFRvZjNackRnaVpfSFdaUVA3TnJOVzNUeWZPUW1USDdKMDAxQ2FGNG0tekQzQS1oV2JfQVNXaEpfdlI2dVpZdFJtWEx0NWs5cUd6NmhqdXRkRE5ZUVo3NGRnRWxTTFMzR0dlWlNzWVVBV1EyY2VVWlHSAeABQVVfeXFMUGRpRkM0TXNRT21kMEVXNUFqVHEzcGdLdUdZM0pPTkt5bXVTQXFxMlRKUTg0WWhTUjVSUWpmc1REWjc4MU04M2Vmemtlazh2YUVRYkdnVzZzMFJtRUpUOXQtNmoyc2ZWRzJUVGJfQXBWY1QwVDJWM3lEamJILTc2aGZJYld3RHdJbldySXF4b1pPRHlUc0tVX245cUQxU1B6bzRFc3JIRlowRzBta2J0WExtQmQ3bDJ5bi1nVEpYcUxOVTAzVHhlbldic2RSVWhoTXpZSDZXVHAxdGdEM01vZHk?oc=5",
+          "summary": "",
+          "published": "2026-11-25T09:30:00+00:00",
+          "image": null,
+          "source": "O GLOBO",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Profissões em alta com IA no Brasil: o que as vagas pedem e quanto pagam",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTkyLURUb0tpdkZjYlBOYVhaa2hjNFh0ZF9GTjBza0NQQkQ5azM1S2dtQmZwV2JFZDc0em5JeTVuM1pJUjdoZXg1Y0kzRFBOalphTllGSzZHS1lNWlBRYVRlQlBjSW1fcnVsX2U4cE9ieDNpUTBWd2pFXzRSVUdreEZ1OGJQTWtTMF9VamlpMUlzLTVLT25WYkhMSjh0bVFMUV9majI2clpkSWU1LTZJLUVPaF8?oc=5",
+          "summary": "",
+          "published": "2026-11-25T09:07:13+00:00",
+          "image": null,
+          "source": "Exame",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "A dupla face da ‘reserva de humanidade’ na jurisdição apoiada por inteligência artificial",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY2JjZ0YtYkozeHBtR3pfN3cyNWYzRVo4cnhrYzNsWG9rZzdKMXFwX3lJUHNrMlE5S2YtWkg3SFV4X2JOUGJhWjN4UHY2N0dNQlQ2ZmhSUmpZa0RmU1BTNGVNbmtTSUplU0U1d2JUY0ZkdTJuZGo2bjVtV2VkZ0tKZ3k3azRGUHFLLVNwQmVWcDlEcWhSSU1GdUJhUUJfMFd2Vm9Nb0RtQ1NOZ1FZT3hxSHYzaHZ5WnFJbXlkMG10WmM5QV8tRE1PVTF3amVDRkRU?oc=5",
+          "summary": "",
+          "published": "2026-11-25T08:51:06+00:00",
+          "image": null,
+          "source": "JOTA Info",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Como a inteligência artificial está encarecendo os celulares mais baratos",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZEE2NDE4U2hrWEU1TFZTeVd6X2lockZUd0V3UjJ3ekhDbmVkYkZaTUozLVBIYXl4dC1EaVdKbFdPS18zYzdZeTM3RmRHUU90eWZpdUVoS1FxTkVFUi1pSFpyNXlreEdMWW9mU193RlJ0QVpSaW91dUtHMXVodXpwR0JtWElzel9oQjhsQ19EZGtscFNlZzJ4b1QtaEgxSDlQZGIwRzBUOVpzNjFGLVNTMlU5bjd0S1ViLTZOa3lCQ1d4VWVwSFp3VllmMUhpSHM?oc=5",
+          "summary": "",
+          "published": "2026-11-25T08:30:00+00:00",
+          "image": null,
+          "source": "UOL",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Cisco oferece curso gratuito de inteligência artificial com certificado",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjBZeUROM2VkaEU5c0sxTVlXM015Q25yR2E3VmhZbzBSeElOSzI2SE9vQy1kVldGLXpET2VIMkROM1RsVjZvTnlEd3luWWNaMFNpRDlwblAtZ3hmRjNwMjRJYnh6Y1pSNVk1dUFKcGFyektRWVl5cGFWazBzV3dZdTBpaER2MUxGTTFvRWFmdmxNM0dpQ0pRY1BrUU82TmVaMVVHbU5DSGg3Rlh2UG1RdVFkOA?oc=5",
+          "summary": "",
+          "published": "2026-11-25T08:00:28+00:00",
+          "image": null,
+          "source": "Hora Brasil",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "CPF, biometria e fotos na inteligência artificial: o que acontece com os seus dados pessoais?",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWVEtRDVPeTl0MmlwejhSMXFIdTd3MXFqYTE5MkpUUWc0ZncwVUtaLXZ1MW1kanBZVmtRMUhUd2hnVl96SV8teDVRQmlBemNkRmtMRVkxNEpDdFpHOUJEY2ZzWlZvQ3dWejk2QlVJVWY4YU1CY05WWGtxQ3JKV0FPRlBPUTFLMWliTDBRWE9ITFdleE8xZFFoMExOYWJuQlB2bG5KZWFreXpqajVQalFTOFV4S2haQ2JiV0UtbzE4aWxlVGxqci03Qmc1d0FaRnJqRndxWDJJYjVOdThaOUhiTXdYSlR2S0J0ZHYxdWJEb9IB7wFBVV95cUxNWVEtRDVPeTl0MmlwejhSMXFIdTd3MXFqYTE5MkpUUWc0ZncwVUtaLXZ1MW1kanBZVmtRMUhUd2hnVl96SV8teDVRQmlBemNkRmtMRVkxNEpDdFpHOUJEY2ZzWlZvQ3dWejk2QlVJVWY4YU1CY05WWGtxQ3JKV0FPRlBPUTFLMWliTDBRWE9ITFdleE8xZFFoMExOYWJuQlB2bG5KZWFreXpqajVQalFTOFV4S2haQ2JiV0UtbzE4aWxlVGxqci03Qmc1d0FaRnJqRndxWDJJYjVOdThaOUhiTXdYSlR2S0J0ZHYxdWJEbw?oc=5",
+          "summary": "",
+          "published": "2026-11-25T06:30:00+00:00",
+          "image": null,
+          "source": "O GLOBO",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "6 dicas práticas para usar inteligência artificial na rotina de pequenos negócios",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOHVvOWs0Rmt1Qnd1ckYzWEp4c3h0dUFwcEdhSFdOZHVEbGpWSmwyUS01X0xCTlhzTFJrcDFmczZpNmRwT1p5QUxQb3RoelFMQU00bFBnNG5zbXFHSW03OUVHdmVLRndKdWhCcFVLVVdtWXllMU1TQjFwWTlPMG55alhpUDZHQkt1QUs0RDhGUWUzWlU5ZDRXS01lZ3ZZNWROem9jakI4NUtfZl83THFvZ0NsX1d1MWlRaERJV2Y2NzgwOEVWTGlXZS1fV2xHZFFPRllWVUVVXzRCa0o1eTFUZG9yYjduZnNodlU2QllqTUtKemliMGVaRlNR?oc=5",
+          "summary": "",
+          "published": "2026-11-25T02:39:49+00:00",
+          "image": null,
+          "source": "GZH",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "A indelével virtude da ignorância: dos sofistas à inteligência artificial",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RWUVZWblZoMnpKNGhCRmpZQTBzOUxTSlZCUzFkczVyMXJJSmdYc2tiVThGaXEweHUzN205VGV6OW9IRDlKME52RlNTMlJMamgzLV83YlEydE1TekNoZmViWVFEM3JFRDRtd2FJaDJHcW1NYmhHZ2stdWpsTVhTXzVqRFg0MWt0dy1OX1hkQ1pITG4wU2VETF9ibDg1RTU5VzI2OTdLakVYM2U3V29nVWQ0MnVVV28xZEd4T0dVQ1NNTUZZWE9zLUQxZWcyLXJi?oc=5",
+          "summary": "",
+          "published": "2026-11-24T22:45:00+00:00",
+          "image": null,
+          "source": "Jornal da USP",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Comissões debatem futuro do esporte na era da inteligência artificial",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ005dHIwamdObEFKSGdBb3l2ZzJ3d0tOV1RDVTJ4YVQzTDlNNmwzekRESjRBb2V4MVBtN2tOUUFTci1KZTdjWHJqeDhkaWhuY2RZSUpYRm5Tc1FXR0ducy03TTNPNDFrUko3UmhoWFRKQVdUOXZjN0Q2T2dVTDF1SkZZbE9ROG11TVQ2WHhoUEtNcjRZSjdTYVZIOWVMemtJOGg4aVVqUG42NjZISTdXdTFn?oc=5",
+          "summary": "",
+          "published": "2026-11-24T22:24:00+00:00",
+          "image": null,
+          "source": "Portal da Câmara dos Deputados",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "Mídia, poder e inteligência artificial",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MYktwLXRSOXVyeTF4WGJxS1A0dU5zQkx3R2xWWklpejlwQVVNVmVHQk11aDdMY2dMTHBINVYxQ2NhME1tbTZPYXNJNjlGVEUwTzNGNnU0ajBvcW5Da3QwUmhiQ01hT2RRb3dmRWIzZW05aVpHc1RFbFF3?oc=5",
+          "summary": "",
+          "published": "2026-11-24T20:16:39+00:00",
+          "image": null,
+          "source": "Monitor Mercantil",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "idadão Tech 60+ amplia conhecimentos sobre inteligência artificial",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVloZ2w4LWZSbDVBVFBqaE9kQmhkUzR0bE92WXdNaU9TblZVVnBVX3RJb3U1V2laUU1idGtqVTliSmgwQVBabU5Bd3dtMnE1bDlmYlNsMmhQOFpBdTI0S3hSSUpHOXRCdW1lMUt2VFg2N2JaX2ZoMXp5LUZiZGtXX0EyY2I4eUJFNkM0NVJtRExlaHZoajc5LUR1MXk3b0E?oc=5",
+          "summary": "",
+          "published": "2026-11-24T19:58:00+00:00",
+          "image": null,
+          "source": "Prefeitura Municipal de Senador Canedo",
+          "feed": "Google Notícias · inteligência artificial",
+          "lang": "pt"
+        },
+        {
+          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People…",
+          "published": "2026-11-24T18:15:00+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Tidal will start banning AI-generated music next month",
+          "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move…",
+          "published": "2026-11-24T17:17:09+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Jensen Huang deepfakes are the hot new AI slop",
+          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+          "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice…",
+          "published": "2026-11-24T16:30:00+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the…",
+          "published": "2026-11-24T16:09:23+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Trump engineered a risky comeback for Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly…",
+          "published": "2026-11-23T22:25:12+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of…",
+          "published": "2026-11-23T22:10:32+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Welcome to elite impunity, Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of…",
+          "published": "2026-11-23T22:09:26+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+          "published": "2026-11-23T21:30:44+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+          "source": "Ars Technica · AI",
+          "feed": "Ars Technica · AI",
+          "lang": "en"
+        },
+        {
+          "title": "AI data centers throw another wrench into chaotic UN climate talks",
+          "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that…",
+          "published": "2026-11-23T21:09:37+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+          "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of…",
+          "published": "2026-11-23T20:00:00+00:00",
+          "image": null,
+          "source": "The Verge · AI",
+          "feed": "The Verge · AI",
+          "lang": "en"
+        },
+        {
+          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor…",
+          "published": "2026-11-23T17:36:08+00:00",
+          "image": null,
+          "source": "MIT Technology Review · AI",
+          "feed": "MIT Technology Review · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+          "published": "2026-11-23T15:46:18+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
+          "source": "Ars Technica · AI",
+          "feed": "Ars Technica · AI",
+          "lang": "en"
+        },
+        {
+          "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+          "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+          "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+          "published": "2026-11-23T12:00:00+00:00",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
+          "source": "Ars Technica · AI",
+          "feed": "Ars Technica · AI",
+          "lang": "en"
+        }
+      ]
     },
     {
       "id": "dados",
       "label": "Dados e Fontes",
-      "items": []
+      "items": [
+        {
+          "title": "Vale a pena fazer curso de Ciência de Dados em 2027?",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDRMYWZscGZaZ3Z1SkJfMzZKUEhOSWg4U1Y1eW1jaDIyMVE3Vkw2SGhKQlQ1VHZscXRkLXZNLTdWTDdnSjVoa3ZheE9sWkthQmVwbTAwN0pUWGR5ME1Wal9NQVN5WXJSSDcxNjRlTzRtWUw4MFFpaFRqMmd1Wm5QSTAzd3JyZw?oc=5",
+          "summary": "",
+          "published": "2026-11-25T11:40:39+00:00",
+          "image": null,
+          "source": "Quero Bolsa",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1ZGRkpHc0ctZmZLMURvQXlMdDZWajZYbHRSSDI5amlmc2ZUeWdrbkNGWUh0WFZVYnZkeksyRm51MUx4REo2Nk5CVGs5RjBuNXFjR1p3QXo5c3JjX2pTY2dEazBKSmUzUzc2SmRfNkdRcTFxclpEbVZWbFo2cmRxQmN4UEU3VHd1bEpPTGVfdWxGTlc4amxjaVBPM19IY1luQ2UwLWJNZlkzd0U5V1dFNFRXLVBudw?oc=5",
+          "summary": "",
+          "published": "2026-11-25T07:06:50+00:00",
+          "image": null,
+          "source": "Secretaria da Educação do Estado de São Paulo",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "IFPE publica conjunto de dados no Portal Brasileiro de Dados Abertos – Campus Paulista",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOG9QamdncXVvcWJpVlNIdXhaTlI0OGF6QnBGSHppREQtQnBheGxHRkthdzZ0MGNteTFqQkhtdm1pNDZDSDRJV0wxbE5FeTF6NF9Kbl9MQUxoTTNoVUREeVBtTkR0YkhDT3lDTll4OGxxdUVSYXktV0EwLU5iV0ZLS0JDN0tOX093WFdVbG1WVHRERG9LNWNvaXAtaW84aGxueEl5UlZDdVJ3NFlmc1hVQW40WlE?oc=5",
+          "summary": "",
+          "published": "2026-11-25T03:16:39+00:00",
+          "image": null,
+          "source": "IFPE",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "CGU apresenta novo Plano de Dados Abertos para o período de 2026 a 2028",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbmkwSVpMdGxEVkJPbzBpNWNRS0RSeHViZTFyZFk4dVRtUjJKTk5RUGU2aTBqSHFpQUM0TjB0WWsyODJ4VFAwdkJsVnhGUFBfMXhvMHotUWtpRUdpUThpWEFUVzhFbVQ1bjhwRHFFYXpUcjBqZXBUcFZVQjZSdVpBN1pyeTdKSkhILWxMcUU0cnFpODVFcGNnUG9oSmdjenc1T3Z2QlJuVTdFakl3ZGpZS1JGc0RQc0p3anZrOXdtTUpwLWRvOTNtQmtTRml4MWtHUEpsOVVFazQySjF1S0pSbzJSTGhxcXVUR19BNW01eWVEVENKRWp1d2NLNU1kWXdCVHdveV83UlptakFFSnVFMTg4dFNha2s?oc=5",
+          "summary": "",
+          "published": "2026-11-25T02:26:00+00:00",
+          "image": null,
+          "source": "www.gov.br",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "UFPE passa a oferecer curso de Estatística e Ciência de Dados em 2027",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjFxYlUwa0NNb3pYT3ZLeVJLeTJsTDQ2SmV3Tklvc1ZNc0trMXNWOHZ0Mm5wYklMamFTSFF5cnFLeVVsOVNjVnMyd2xDRFdsT0ozTDlreXNJQ3F6RkFMWGFQRk8yTUEycHQtRVprenVDOWhVRTBTdnJxNTJIRkt6TVZoUVR6Z3VRS2VueGJyQlNOQ3hZU0xHZklFWnhXd1BfTW9TV1F1dTRXTzJBeUVlM1RvLTE?oc=5",
+          "summary": "",
+          "published": "2026-11-24T21:11:00+00:00",
+          "image": null,
+          "source": "LeiaJá",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Sema entrega plano estadual e mapeamento da Linha de Costa do Ceará",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEU0X0VvLXdUM2xSZmU5aTZVb2VqQ3ZSRUhrUnRyd2JyU1c0YWRvX1VqWUtxdXJtM0x6YTJnZGNWNFZCazZQUlE4d3AxaEx4VnZmQkZsN29BLUhnTU9jZVRDVnFfSHJ0NTNtalZ3bnhYY3ZhaUNpZDJzajRVQUZSa3E5cjNZVkpRM3dYbVpYQ0VTbUVqV19DQlVrTE5DbXlxMXRlNHJkUnhXZw?oc=5",
+          "summary": "",
+          "published": "2026-11-24T19:28:09+00:00",
+          "image": null,
+          "source": "Governo do Estado do Ceará",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Adriana Tanssini participa de painel sobre segurança da informação, LGPD e inteligência artificial",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLS1LR0lWdHFnU1IzU0d2WEE2dzBjNkwtNF9fZ1VQTmNhcHpQNzRodEE2OVNnbFpMNDJiWjdhM2w3Q0pyeW42N1RlUEYtWHpUVnctVWhsXzFJWTNQd2hGLUROeFhjWGRkck4xY3drbGJhVVVSdVZuZU51bkU1NlFLbTNWYkFfa2tONDg5YTdTdnpfODlCbzlwSk9VVVlWTjVrN19SSFA5eHlWQ2pLRTR1U1ByLVhwZ1Y1d2puQ1VBalRnZUE1WEVFTXhGdnJfZGk5NWpv?oc=5",
+          "summary": "",
+          "published": "2026-11-24T18:30:00+00:00",
+          "image": null,
+          "source": "OAB-MT",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Suspensa ata de R$ 82,5 mi para a contratação de obras em 42 municípios",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXpKQVJMemVMUEthOXRrWlFmb2ZSeVctZmN3RGs5ZGhRSmtBdXJ5azFmUFQ5cUUyM3RIUHFZS3NhbHNfTFF4blc4cS1VTTZSZVIxRTVsZ0VsS251QUNzT3VKbXh1dWZibEZrRHZLeFdZcHNhc0VLV3VkdElGdkdoTjVLanI5azRXb29xZTJnQjF4M0lwQzNMMUNtSVlLNURMRkphZklmODdwM0xLMU16SkJIdXpaeXZLaDh4aw?oc=5",
+          "summary": "",
+          "published": "2026-11-24T17:55:51+00:00",
+          "image": null,
+          "source": "Tribunal de Contas do Estado de Minas Gerais",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Capacitação no Mato Grosso destaca relação entre LGPD e Lei de Acesso à Informação",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHhZMzRsYURDUUtWazZ0VzczVkE2YlE1MFpMTmNiUTcyNFdZNk1VR2VxSWRxd2hXVVJJRnBMT3l5TGc3akc0TnNMeUV6cWdaaVJST24wd2N6QWxIbGJIRGFka2FUc1huOHZNSlN2UU1uTF9NUmZVOFhjeXM5YnBQWkhZY0h0UXpuUGdEVHR2Z2NndkdmWkpiMllmdEw3d2Z4ZC1SSUJDRQ?oc=5",
+          "summary": "",
+          "published": "2026-11-24T17:46:00+00:00",
+          "image": null,
+          "source": "CAU/BR",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
+          "link": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
+          "summary": "American open-source AI is making a comeback, and this powerful local LLM is proving that fast inference, AI coding agents, and impressive results don't require expensive APIs.",
+          "published": "2026-11-24T17:00:00+00:00",
+          "image": "https://www.kdnuggets.com/wp-content/uploads/awan_run_inkling_2_mini_locally_rtx_3090_unsloth_studio_3.png",
+          "source": "KDnuggets",
+          "feed": "KDnuggets",
+          "lang": "en"
+        },
+        {
+          "title": "From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()",
+          "link": "https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv",
+          "summary": "The process of building a bulletproof Python loader based on Pandas' read_csv() function to turn messy data into pristine data.",
+          "published": "2026-11-24T15:00:00+00:00",
+          "image": "https://www.kdnuggets.com/wp-content/uploads/kd-from-messy-to-clean-taming-real-world-csv-files-with-pandas-read-csv-photo-feature.png",
+          "source": "KDnuggets",
+          "feed": "KDnuggets",
+          "lang": "en"
+        },
+        {
+          "title": "I Built a Bayesian Neural Network From One Neuron and Football Shots",
+          "link": "https://towardsdatascience.com/i-built-a-bayesian-neural-network-from-one-neuron-and-football-shots/",
+          "summary": "Gaussian weights, the reparameterisation trick, and Monte Carlo sampling turn a single sigmoid neuron into a Bayesian expected-goals model on StatsBomb data. The post I Built a Bayesian Neural Network From One Neuron and Football Shots appeared first on…",
+          "published": "2026-11-24T15:00:00+00:00",
+          "image": null,
+          "source": "Towards Data Science",
+          "feed": "Towards Data Science",
+          "lang": "en"
+        },
+        {
+          "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
+          "link": "https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/",
+          "summary": "A Mermaid blueprint, Python dataclasses, and a retryable flag decide when a failed agent tries again and when the task goes to a person. The post How to Plan Retries for Multi-Agent Workflows Before You Write Code appeared first on Towards Data Science .",
+          "published": "2026-11-24T13:30:00+00:00",
+          "image": null,
+          "source": "Towards Data Science",
+          "feed": "Towards Data Science",
+          "lang": "en"
+        },
+        {
+          "title": "ANS realiza webinário sobre os Dados Abertos da Agência",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbE5YQm9zc1BaNUdXbnV6TFpCQXpDdFQ2dk94V0JLQndRakh6Wk40ZmFHMTh5bHlDZG53QTg4dm9FSWloRmdxa0wtdXpOQnJWVUVxVzJNWFQyXzhDdzVfdEtXaURjRVBMSjhxbW1Mc0c0ZWlMUEJNRTJZREJlREp2cDJjeUJZa19KQndURWQyUENFZ3AzTVRPcVhha1JaMmZaTXNOc2pjX3B2WnhRMnBTb0QwNTdJQzJrQ0F0aWlB?oc=5",
+          "summary": "",
+          "published": "2026-11-24T13:15:00+00:00",
+          "image": null,
+          "source": "Governo Federal",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Banner-Portal-webinário-Dados-Abertos-da-ANS.png — Agência Nacional de Saúde Suplementar",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcFUtSnFJaGlrYUpKSFRTOG9Ybzd2cXhyaWVhdGJyWXlfelYxQk9WMkZmd2Zrd0xOcWNEZVR5eXJCNDVmRkctblVCZDVqS1ZPSEFHZ1docWpaaF9CakZGZ29zTWs4MDR1QUh5cmRTWDBUM0tuNnlYOGR5LVlQX1ZnTS1FckU4TEZHSkNyMkMwQUgxSld3OGFWYl9Zbk9KS3F2ZWNlVjBfR1hTZXVRRDVfWWpyNzVWbi02SzUxbjdVWUJNa0taT3FzdGlHTUhHU25OVzE3d3BsX19BX2xFcmI0LUprc042VFhHREkwRlU1SE9ySkdmOFFwMm5PZlhPZnYtanpCTXNR?oc=5",
+          "summary": "",
+          "published": "2026-11-24T13:14:00+00:00",
+          "image": null,
+          "source": "GOV.BR",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "7 Most Downloaded AI Models on Hugging Face",
+          "link": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
+          "summary": "The most downloaded AI models on Hugging Face aren't the ones you'd expect. Discover why smaller, older, and specialized models dominate the rankings.",
+          "published": "2026-11-24T13:00:00+00:00",
+          "image": "https://www.kdnuggets.com/wp-content/uploads/awan_7_downloaded_ai_models_hugging_face_1.png",
+          "source": "KDnuggets",
+          "feed": "KDnuggets",
+          "lang": "en"
+        },
+        {
+          "title": "Alesp moderniza portais de Dados Abertos e de Transparência e facilita acesso a informações públicas",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXFSbVdQSHdzYXM5RUo0MjhhT3d3WEFTQXdDMHBfMUMtN3lEQk5tZ2pQRDZiQWM1R3o4c1AwRWtnRktrU2VweHp6VEo3X0d0U2c1VHNFODJCVXkza25sZUpoVmROMXZvN1JCa25Na2dscXlGdjVjNjR5NzNSQUFqMXd2X0JjbDhpY01WT3MtS2taelpZeHNkUWp1NGMtM3lyM0ZSdnI3S090MUtfYXVwcU41NVJQX2Q4Y1BtVnZ2R3NKaHRxQkk1cUtTSEtqRm1IQTI5eFVTc0hRY2NqZUtxSw?oc=5",
+          "summary": "",
+          "published": "2026-11-24T12:20:07+00:00",
+          "image": null,
+          "source": "BS9",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "How to Calculate and Operationalize Customer Lifetime Value",
+          "link": "https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/",
+          "summary": "For analysts and commercial leaders: how cohort churn, BTYD models, and behavioral segments turn CLV from a board-deck KPI into daily decisions. The post How to Calculate and Operationalize Customer Lifetime Value appeared first on Towards Data Science .",
+          "published": "2026-11-24T12:00:00+00:00",
+          "image": null,
+          "source": "Towards Data Science",
+          "feed": "Towards Data Science",
+          "lang": "en"
+        },
+        {
+          "title": "Sefaz-CE realiza 1ª simulação estudantil do país sobre gestão fazendária",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVlwUEhYTVlEMEh0Z2ozYkFsYlJ1cUtwbkd2a3V0bWNXdHBMQU5VeW9DcF9vZ1Y5XzNMYTFRYVNxeGlxZExMZmI5Qm9zQmttYlFsU05vRmIzOWRfY1dyeEdzYWI0cWM2aDB5NjhQWUI5S2l4dms0c0NaMmFUVHZfQnBsa21scVRHclB4a1VuTnNTQjdDX2xZTGZydC14VHZkM2lkdGwxYWF5MkUxMlFzbzJ3?oc=5",
+          "summary": "",
+          "published": "2026-11-24T11:41:06+00:00",
+          "image": null,
+          "source": "Governo do Estado do Ceará",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Últimos dias para garantir desconto de até 10% no IPVA 2027 – Secretaria de Estado de Comunicação",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVJMTWx6TV9adDU2U2xjVlRDd21nSURjN2xYTDY5ZmdTSmFwR285aThRQ3Q4QURRUjdqN0NhdFlLNklFQTBYbW8zX1QxUTNZSFZJOWUxZ3ZXb3M1UE5VbjNtR2ljcnJtaUkwTTBLT0tZbVhLN0NTMmNlSzBVT3dIVHZtUEFkWG9QcHZMN2RWemk0UWNCeVN3?oc=5",
+          "summary": "",
+          "published": "2026-11-24T00:50:04+00:00",
+          "image": null,
+          "source": "Goias.GOV",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
+          "link": "https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026",
+          "summary": "Discover how to combine AI assistants, coding tools, and adaptive platforms to cut your learning curve and build practical skills more efficiently.",
+          "published": "2026-11-23T15:00:00+00:00",
+          "image": "https://www.kdnuggets.com/wp-content/uploads/kd-how-to-use-ai-tools-to-learn-data-science-faster-in-2026-illustration-feature.png",
+          "source": "KDnuggets",
+          "feed": "KDnuggets",
+          "lang": "en"
+        },
+        {
+          "title": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
+          "link": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/",
+          "summary": "From the Four Color Theorem to OpenAI's October 2026 claims, why computer-checked proofs still need people to explain, test, and extend them. The post AI Math Proofs Aren't Knowledge Until Someone Explains Them appeared first on Towards Data Science .",
+          "published": "2026-11-23T15:00:00+00:00",
+          "image": null,
+          "source": "Towards Data Science",
+          "feed": "Towards Data Science",
+          "lang": "en"
+        },
+        {
+          "title": "The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words",
+          "link": "https://towardsdatascience.com/the-birthday-paradox-shows-small-llms-pick-from-about-6-of-40-words/",
+          "summary": "Ask the same question 300 times, count the repeats, and solve for N: a few lines of Python that work on any chatbot you can type into. The post The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words appeared first on Towards Data Science .",
+          "published": "2026-11-23T13:30:00+00:00",
+          "image": null,
+          "source": "Towards Data Science",
+          "feed": "Towards Data Science",
+          "lang": "en"
+        },
+        {
+          "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
+          "link": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
+          "summary": "Compare five lightweight ways to give AI agents tools without an MCP server, from a Python dispatcher to framework tools, REST adapters, subprocesses, and webhooks, and learn when MCP becomes worth adding.",
+          "published": "2026-11-23T13:00:00+00:00",
+          "image": "https://www.kdnuggets.com/wp-content/uploads/kdn-5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools-feature.webp",
+          "source": "KDnuggets",
+          "feed": "KDnuggets",
+          "lang": "en"
+        },
+        {
+          "title": "What a 90% Prompt Cache Hit Rate Hides About Attention Work",
+          "link": "https://towardsdatascience.com/what-a-90-prompt-cache-hit-rate-hides-about-attention-work/",
+          "summary": "Request hit rate, token reuse, and latency tell different stories; a 2026 preprint found lower 99th-percentile but higher median time to first token. The post What a 90% Prompt Cache Hit Rate Hides About Attention Work appeared first on Towards Data Science .",
+          "published": "2026-11-23T12:00:00+00:00",
+          "image": null,
+          "source": "Towards Data Science",
+          "feed": "Towards Data Science",
+          "lang": "en"
+        }
+      ]
     }
   ],
   "sources": [
@@ -29,8 +1173,8 @@
       "name": "Tecnoblog",
       "url": "https://tecnoblog.net/feed/",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 15,
       "error": null
     },
     {
@@ -38,8 +1182,8 @@
       "name": "Canaltech",
       "url": "https://canaltech.com.br/rss/",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 15,
       "error": null
     },
     {
@@ -47,8 +1191,8 @@
       "name": "Olhar Digital",
       "url": "https://olhardigital.com.br/feed/",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 10,
       "error": null
     },
     {
@@ -56,8 +1200,8 @@
       "name": "The Verge",
       "url": "https://www.theverge.com/rss/index.xml",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 10,
       "error": null
     },
     {
@@ -65,8 +1209,8 @@
       "name": "Ars Technica",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 15,
       "error": null
     },
     {
@@ -74,8 +1218,8 @@
       "name": "Google Notícias · carreira em TI",
       "url": "https://news.google.com/rss/search?q=%22carreira%22+(tecnologia+OR+TI+OR+programa%C3%A7%C3%A3o)+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 15,
       "error": null
     },
     {
@@ -83,8 +1227,8 @@
       "name": "Google Notícias · vagas tech",
       "url": "https://news.google.com/rss/search?q=(vagas+OR+mercado+de+trabalho)+(TI+OR+desenvolvedores)+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 14,
       "error": null
     },
     {
@@ -92,8 +1236,8 @@
       "name": "DEV Community · career",
       "url": "https://dev.to/feed/tag/career",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 12,
       "error": null
     },
     {
@@ -101,8 +1245,8 @@
       "name": "freeCodeCamp News",
       "url": "https://www.freecodecamp.org/news/rss/",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 6,
       "error": null
     },
     {
@@ -110,8 +1254,8 @@
       "name": "Google Notícias · inteligência artificial",
       "url": "https://news.google.com/rss/search?q=%22intelig%C3%AAncia+artificial%22+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 15,
       "error": null
     },
     {
@@ -119,8 +1263,8 @@
       "name": "MIT Technology Review · AI",
       "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 2,
       "error": null
     },
     {
@@ -128,8 +1272,8 @@
       "name": "The Verge · AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 9,
       "error": null
     },
     {
@@ -137,8 +1281,8 @@
       "name": "Ars Technica · AI",
       "url": "https://arstechnica.com/ai/feed/",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 3,
       "error": null
     },
     {
@@ -146,8 +1290,8 @@
       "name": "Google Notícias · ciência de dados",
       "url": "https://news.google.com/rss/search?q=(%22ci%C3%AAncia+de+dados%22+OR+%22dados+abertos%22+OR+LGPD)+when:3d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "lang": "pt",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 14,
       "error": null
     },
     {
@@ -155,8 +1299,8 @@
       "name": "KDnuggets",
       "url": "https://www.kdnuggets.com/feed",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 5,
       "error": null
     },
     {
@@ -164,8 +1308,8 @@
       "name": "Towards Data Science",
       "url": "https://towardsdatascience.com/feed",
       "lang": "en",
-      "ok": null,
-      "items": 0,
+      "ok": true,
+      "items": 6,
       "error": null
     },
     {
@@ -173,7 +1317,7 @@
       "name": "Our World in Data",
       "url": "https://ourworldindata.org/atom.xml",
       "lang": "en",
-      "ok": null,
+      "ok": true,
       "items": 0,
       "error": null
     }
