@@ -37,6 +37,13 @@
           <span class="sr-only">Buscar notícias</span>
           <input id="search" type="search" placeholder="Buscar no dia… (ex.: Python, LGPD)" autocomplete="off">
         </label>
+        <select id="window" aria-label="Período">
+          <option value="30">Últimos 30 min</option>
+          <option value="120">Últimas 2h</option>
+          <option value="360">Últimas 6h</option>
+          <option value="1440">Últimas 24h</option>
+          <option value="2880">Últimas 48h</option>
+        </select>
         <select id="lang" aria-label="Idioma">
           <option value="all">Todos os idiomas</option>
           <option value="pt">Português</option>
@@ -57,7 +64,7 @@
   </main>
 
   <footer class="wrap foot">
-    <p>Atualizado automaticamente todos os dias por GitHub Actions · <a href="data/news.json">dados em JSON</a></p>
+    <p>Coleta automática a cada 30 minutos por GitHub Actions · <a href="data/news.json">dados em JSON</a></p>
   </footer>
 
   <script src="assets/app.js"></script>

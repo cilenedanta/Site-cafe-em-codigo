@@ -8,7 +8,8 @@
     dados: "var(--c-dados)",
   };
 
-  const state = { data: null, cat: "all", q: "", lang: "all" };
+  const state = { data: null, cat: "all", q: "", lang: "all", win: 30 };
+  const FRESH_MIN = 30;
   const $ = (sel) => document.querySelector(sel);
 
   const fmtTime = new Intl.DateTimeFormat("pt-BR", { hour: "2-digit", minute: "2-digit" });
@@ -43,12 +44,27 @@
     const q = norm(state.q);
     return cat.items.filter((i) =>
       (state.lang === "all" || i.lang === state.lang) &&
+      inWindow(i.published) &&
       (!q || norm(`${i.title} ${i.summary} ${i.source}`).includes(q))
     );
   }
 
+  function minutesAgo(iso) {
+    return iso ? (Date.now() - new Date(iso)) / 60000 : Infinity;
+  }
+
+  function inWindow(iso) {
+    // sem data de publicação: só aparece na janela máxima
+    return iso ? minutesAgo(iso) <= state.win : state.win >= 2880;
+  }
+
   function isFresh(iso) {
-    return iso && Date.now() - new Date(iso) < 6 * 3600 * 1000;
+    return minutesAgo(iso) <= FRESH_MIN;
+  }
+
+  function winLabel() {
+    const o = $("#window").selectedOptions[0];
+    return o ? o.textContent.toLowerCase() : "";
   }
 
   function renderKpis() {
@@ -57,7 +73,7 @@
     const okSources = state.data.sources.filter((s) => s.ok).length;
     const tiles = [
       `<button class="kpi" data-cat="all" aria-pressed="${state.cat === "all"}">
-         <p class="kpi__label">Total do dia</p>
+         <p class="kpi__label">Total · ${esc(winLabel())}</p>
          <p class="kpi__value">${total}</p>
          <p class="kpi__sub">${okSources}/${state.data.sources.length} fontes ativas</p>
        </button>`,
@@ -67,7 +83,7 @@
         return `<button class="kpi" data-cat="${esc(c.id)}" style="--kpi-color:${COLORS[c.id] || "var(--accent)"}" aria-pressed="${state.cat === c.id}">
           <p class="kpi__label">${esc(c.label)}</p>
           <p class="kpi__value">${items.length}</p>
-          <p class="kpi__sub">${fresh} nas últimas 6h</p>
+          <p class="kpi__sub">${fresh} nos últimos 30 min</p>
         </button>`;
       }),
     ];
@@ -124,7 +140,9 @@
         </header>
         ${items.length
           ? `<ul class="list">${items.map(renderItem).join("")}</ul>`
-          : `<p class="empty">Nada encontrado com esses filtros.</p>`}
+          : `<p class="empty">${state.q || state.lang !== "all"
+              ? "Nada encontrado com esses filtros."
+              : `Nenhuma notícia nova ${esc(winLabel())}.<br>Escolha um período maior no seletor acima.`}</p>`}
       </article>`;
     }).join("");
   }
@@ -171,6 +189,11 @@
       clearTimeout(t);
       t = setTimeout(() => { state.q = e.target.value; renderAll(); }, 120);
     });
+    $("#window").addEventListener("change", (e) => {
+      state.win = Number(e.target.value);
+      try { localStorage.setItem("cec-win", e.target.value); } catch {}
+      renderAll();
+    });
     $("#lang").addEventListener("change", (e) => {
       state.lang = e.target.value;
       try { localStorage.setItem("cec-lang", state.lang); } catch {}
@@ -184,24 +207,39 @@
     try {
       state.cat = localStorage.getItem("cec-cat") || "all";
       state.lang = localStorage.getItem("cec-lang") || "all";
+      const w = Number(localStorage.getItem("cec-win"));
+      if ([30, 120, 360, 1440, 2880].includes(w)) state.win = w;
     } catch {}
     $("#lang").value = state.lang;
+    $("#window").value = String(state.win);
     bind();
+    await load(true);
+    // a janela é relativa ao "agora": re-renderiza a cada minuto e busca dados novos a cada 5 min
+    setInterval(() => { if (state.data) { renderAll(); updatedLabel(); } }, 60 * 1000);
+    setInterval(() => load(false), 5 * 60 * 1000);
+  }
+
+  function updatedLabel() {
+    const gen = state.data.generated_at ? new Date(state.data.generated_at) : null;
+    $("#updated").textContent = gen
+      ? `Coletado ${ago(state.data.generated_at)} (às ${fmtTime.format(gen)}) · nova coleta a cada 30 min`
+      : "Aguardando a primeira coleta";
+  }
+
+  async function load(first) {
     try {
       const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-store" });
       if (!res.ok) throw new Error(res.status);
       state.data = await res.json();
     } catch (err) {
+      if (!first) return; // mantém os dados já exibidos
       $("#updated").textContent = "Não foi possível carregar data/news.json";
       $("#board").innerHTML = `<div class="notice"><strong>Erro ao carregar as notícias.</strong>
         Abra o site por um servidor (ex.: <code>python -m http.server</code>), não direto do arquivo.</div>`;
       return;
     }
     if (!state.data.categories.some((c) => c.id === state.cat)) state.cat = "all";
-    const gen = state.data.generated_at ? new Date(state.data.generated_at) : null;
-    $("#updated").textContent = gen
-      ? `Atualizado ${ago(state.data.generated_at)} · ${fmtDate.format(gen).split(",")[0]} às ${fmtTime.format(gen)}`
-      : "Aguardando a primeira coleta";
+    updatedLabel();
     renderAll();
     renderSources();
   }

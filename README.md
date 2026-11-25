@@ -19,8 +19,9 @@ data/sources.json  ──►  scripts/fetch_news.py  ──►  data/news.json  
 ```
 
 - `scripts/fetch_news.py` lê os feeds, descarta notícias com mais de 48h, remove duplicadas e grava `data/news.json`. Usa só a biblioteca padrão do Python.
-- O workflow `.github/workflows/update-news.yml` roda **todo dia às 06:47 (Brasília)** e faz commit do `news.json` atualizado. Também pode ser disparado manualmente em **Actions → Atualizar notícias → Run workflow**.
-- `index.html` + `assets/` é um site estático: filtros por seção, busca, filtro de idioma (PT/EN), selo "novo" para as últimas 6h e tema claro/escuro automático.
+- O workflow `.github/workflows/update-news.yml` roda **a cada 30 minutos** e faz commit do `news.json` quando há novidade. O GitHub pode atrasar execuções agendadas em alguns minutos nos horários de pico. Também pode ser disparado manualmente em **Actions → Atualizar notícias → Run workflow**.
+- `index.html` + `assets/` é um site estático: filtros por seção, busca, filtro de idioma (PT/EN), selo "novo" para os últimos 30 min e tema claro/escuro automático.
+- Por padrão o dashboard mostra só as notícias dos **últimos 30 minutos**; o seletor de período amplia para 2h, 6h, 24h ou 48h. A página recarrega os dados sozinha a cada 5 minutos.
 
 ## Rodar localmente
 
