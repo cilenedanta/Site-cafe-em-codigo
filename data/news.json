@@ -1,11 +1,121 @@
 {
-  "generated_at": "2026-11-26T20:30:13+00:00",
+  "generated_at": "2026-11-26T21:10:47+00:00",
   "max_age_hours": 48,
   "categories": [
     {
       "id": "tecnologia",
       "label": "Tecnologia",
       "items": [
+        {
+          "title": "AMD Ryzen 5 8500G com vídeo integrado por apenas R$ 712 no PIX do KaBuM!",
+          "link": "https://canaltech.com.br/hardware/amd-ryzen-5-8500g-com-video-integrado-por-r-712-no-pix-do-kabum/",
+          "summary": "AMD Ryzen 5 8500G com vídeo integrado por apenas R$ 712 no PIX do KaBuM! Montar um PC moderno na plataforma AM5 sem precisar investir imediatamente em uma placa de vídeo dedicada ficou muito mais fácil. O processador AMD Ryzen 5 8500G é uma das opções mais…",
+          "published": "2026-11-26T21:07:58+00:00",
+          "image": "https://tl.ctcdn.com.br/vjzDvtQbM1U1SpQfKUb39gnkFJM=/1200x675/smart/filters:format(webp):quality(85)/e73259d8-c950-4da6-94c7-6ff39be8140c.png",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Huawei pode lançar antes uma das principais mudanças do iPhone 20",
+          "link": "https://tecnoblog.net/noticias/huawei-pode-lancar-antes-uma-das-principais-mudancas-do-iphone-20/",
+          "summary": "Osta O1 é cotado com tela curva nas quatro bordas, tecnologia esperada para o iPhone comemorativo em 2027. Huawei pode lançar antes uma das principais mudanças do iPhone 20",
+          "published": "2026-11-26T21:03:19+00:00",
+          "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/huawei-mate-90-airc.jpg",
+          "source": "Tecnoblog",
+          "feed": "Tecnoblog",
+          "lang": "pt"
+        },
+        {
+          "title": "Lenovo LOQ com tela 144Hz e RTX 3050 com preço em queda livre no Mercado Livre",
+          "link": "https://canaltech.com.br/notebook/lenovo-loq-com-tela-144hz-e-rtx-3050-com-preco-em-queda-livre-no-mercado-livre/",
+          "summary": "Lenovo LOQ com tela 144Hz e RTX 3050 com preço em queda livre no Mercado Livre Chegou o momento certo para colocar as mãos em uma máquina que realmente aguenta o tranco sem comprometer o orçamento. O Notebook Gamer Lenovo LOQ 15IRX9 é aquele tipo de…",
+          "published": "2026-11-26T21:03:00+00:00",
+          "image": "https://tl.ctcdn.com.br/dPkw3jLTcqKeolnkJ8CafMqHdsU=/1200x675/smart/filters:format(webp):quality(85)/adb2ea9c-2515-41cf-9d0e-20a611285763.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Netflix’s coziest show has made a very quiet return",
+          "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+          "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming…",
+          "published": "2026-11-26T21:00:00+00:00",
+          "image": null,
+          "source": "The Verge",
+          "feed": "The Verge",
+          "lang": "en"
+        },
+        {
+          "title": "Black Week: Galaxy S26 FE cai ainda mais e chega a 47% OFF com cupom",
+          "link": "https://tecnoblog.net/achados/black-week-galaxy-s26-fe-cai-ainda-mais-e-chega-a-47-off-com-cupom/",
+          "summary": "Galaxy S26 FE (128 GB) com tela AMOLED e câmera de 50 MP atinge o menor preço desde o lançamento, com desconto de 47% no Pix com cupom exclusivo no app Magalu Black Week: Galaxy S26 FE cai ainda mais e chega a 47% OFF com cupom",
+          "published": "2026-11-26T20:50:54+00:00",
+          "image": "https://www.youtube.com/embed/zrymAIvmz9U",
+          "source": "Tecnoblog",
+          "feed": "Tecnoblog",
+          "lang": "pt"
+        },
+        {
+          "title": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub",
+          "link": "https://canaltech.com.br/games/take-two-derruba-mais-de-3-mil-ports-de-gta-6-para-pc-no-github/",
+          "summary": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub A Take-Two Interactive emitiu uma ordem para a derrubada de mais de 3 mil ports de GTA 6 para PC feitos por fãs . A solicitação para o GitHub visa garantir os direitos autorais da obra…",
+          "published": "2026-11-26T20:46:00+00:00",
+          "image": "https://tl.ctcdn.com.br/bSEs1YoXy4rNxCfLsR9rBqyaAeo=/1200x675/smart/filters:format(webp):quality(85)/72ba323b-89e3-4220-b503-8e729bc53923.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Magalu derruba preço de Smart TV TCL de 85” com tela QLED 4K",
+          "link": "https://canaltech.com.br/tv/magalu-derruba-preco-de-smart-tv-tcl-de-85-com-tela-qled-4k/",
+          "summary": "Magalu derruba preço de Smart TV TCL de 85” com tela QLED 4K Quem quer transformar a sala de casa em um verdadeiro cinema pode aproveitar a Black Friday para comprar a Smart TV TCL P8L de 85 polegadas . Com tela QLED 4K e taxa de atualização de 144 Hz, o…",
+          "published": "2026-11-26T20:43:25+00:00",
+          "image": "https://tl.ctcdn.com.br/Gnj4ANK9MW7QJwUyRh5zBQF-Jl0=/1200x675/smart/filters:format(webp):quality(85)/21a36658-0567-4824-8c70-90f7572fa892.png",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Galaxy Watch 8 tem oferta agressiva e cai para menos de R$ 1 mil na Black Week",
+          "link": "https://tecnoblog.net/achados/galaxy-watch-8-tem-oferta-agressiva-e-cai-para-menos-de-r-1-mil-na-black-week/",
+          "summary": "Galaxy Watch 8 de 44 mm com tela AMOLED e Google Gemini recebe excelente desconto com cupom e pagamento via Pix na Amazon Galaxy Watch 8 tem oferta agressiva e cai para menos de R$ 1 mil na Black Week",
+          "published": "2026-11-26T20:37:51+00:00",
+          "image": "https://www.youtube.com/embed/-UkUNaXH68o",
+          "source": "Tecnoblog",
+          "feed": "Tecnoblog",
+          "lang": "pt"
+        },
+        {
+          "title": "Claude agora cria programas reais para PC no plano grátis",
+          "link": "https://canaltech.com.br/inteligencia-artificial/claude-agora-cria-programas-reais-para-pc-no-plano-gratis/",
+          "summary": "Claude agora cria programas reais para PC no plano grátis A Anthropic anunciou nesta terça-feira (24) um recurso que permite criar e instalar programas no Windows e macOS com o Claude , mesmo sem conhecimentos de programação. A novidade está sendo…",
+          "published": "2026-11-26T20:32:00+00:00",
+          "image": "https://tl.ctcdn.com.br/mBkfYYuZbz4wwkwiBHxrlIl47rs=/1200x675/smart/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
+        {
+          "title": "Dell 14 ou Dell 15: qual notebook escolher em 2026?",
+          "link": "https://olhardigital.com.br/2026/11/26/lounge-dell/dell-14-ou-dell-15-comparativo/",
+          "summary": "Resposta rápida: o Dell 14 é a escolha para quem quer um notebook compacto, com acabamento em metal e processadores Intel® Core™ 5 ou Core™ 7, que acompanha a sua rotina aonde estiver. O Dell 15 é ideal para quem prefere uma tela maior de 15,6 polegadas com…",
+          "published": "2026-11-26T20:30:45+00:00",
+          "image": null,
+          "source": "Olhar Digital",
+          "feed": "Olhar Digital",
+          "lang": "pt"
+        },
+        {
+          "title": "Vale a pena comprar a Radeon RX 9070 GRE na Black Friday?",
+          "link": "https://canaltech.com.br/hardware/black-friday-vale-a-pena-comprar-radeon-rx-9070-gre/",
+          "summary": "Vale a pena comprar a Radeon RX 9070 GRE na Black Friday? A atual geração de placas de vídeo saiu há quase dois anos. Desde a estreia das novas arquiteturas gráficas da NVIDIA e AMD, houve pouquíssimas adições. Nesse ano, o Time Vermelho trouxe ao mercado a…",
+          "published": "2026-11-26T20:30:00+00:00",
+          "image": "https://tl.ctcdn.com.br/SAVImrXzbllb7ElmDZlS1HpPV8k=/1200x675/smart/filters:format(webp):quality(85)/cb08bcc8-104b-4ce2-9b0d-0f5a1abcb0d9.jpg",
+          "source": "Canaltech",
+          "feed": "Canaltech",
+          "lang": "pt"
+        },
         {
           "title": "Xiaomi lança lava e seca \"especial\" para roupas delicadas",
           "link": "https://canaltech.com.br/eletro/xiaomi-lanca-lava-e-seca-especial-para-roupas-delicadas/",
@@ -137,56 +247,6 @@
           "lang": "pt"
         },
         {
-          "title": "Desconto absurdo: B760M Aorus Elite DDR5 cai 43% no Mercado Livre",
-          "link": "https://canaltech.com.br/hardware/desconto-absurdo-b760m-aorus-elite-ddr5-cai-43-no-mercado-livre/",
-          "summary": "Desconto absurdo: B760M Aorus Elite DDR5 cai 43% no Mercado Livre O momento certo para atualizar a base do seu setup sem estourar o orçamento chegou. A Gigabyte B760M Aorus Elite é uma placa-mãe que entrega construção reforçada e suporte às tecnologias atuais…",
-          "published": "2026-11-26T19:35:52+00:00",
-          "image": "https://tl.ctcdn.com.br/UoVXv4ugjw-3hsJu76gJi0TPedc=/1200x675/smart/filters:format(webp):quality(85)/dd5a18ca-ae24-4eb4-939c-281e5aa3d93b.jpg",
-          "source": "Canaltech",
-          "feed": "Canaltech",
-          "lang": "pt"
-        },
-        {
-          "title": "WhatsApp ganha agendamento de mensagens que funciona até com celular desligado",
-          "link": "https://canaltech.com.br/apps/whatsapp-ganha-agendamento-de-mensagens-que-funciona-ate-com-celular-desligado/",
-          "summary": "WhatsApp ganha agendamento de mensagens que funciona até com celular desligado O WhatsApp anunciou nesta quarta-feira (25) o lançamento do recurso de agendamento de mensagens . A novidade permite programar o envio de textos, fotos e vídeos com até 14 dias de…",
-          "published": "2026-11-26T19:29:00+00:00",
-          "image": "https://tl.ctcdn.com.br/3e-3LpYrj-zB_C4sqq4fF8P7FP8=/1200x675/smart/filters:format(webp):quality(85)/bb14286b-d7d6-4092-91dc-1f21519537e9.jpg",
-          "source": "Canaltech",
-          "feed": "Canaltech",
-          "lang": "pt"
-        },
-        {
-          "title": "Caixa de som transforma música em espetáculo visual com iluminação 360 graus",
-          "link": "https://canaltech.com.br/eletro/caixa-de-som-transforma-musica-em-espetaculo-visual-com-iluminacao-360-graus/",
-          "summary": "Caixa de som transforma música em espetáculo visual com iluminação 360 graus A Harman Kardon lançou uma nova caixa de som que transforma a reprodução de músicas em um espetáculo visual. A Allure 2 conta com um anel de iluminação de 360 graus que reage ao…",
-          "published": "2026-11-26T19:23:41+00:00",
-          "image": "https://tl.ctcdn.com.br/eY-wSJ0UiJQNKEW-u-jlDS1yH6Y=/1200x675/smart/filters:format(webp):quality(85)/39961c34-f65c-4a91-9baf-7ae35109f609.png",
-          "source": "Canaltech",
-          "feed": "Canaltech",
-          "lang": "pt"
-        },
-        {
-          "title": "Por que GTA 6 tem consequências reais para os crimes? Rockstar explica",
-          "link": "https://canaltech.com.br/games/por-que-gta-6-tem-consequencias-reais-para-os-crimes-rockstar-explica/",
-          "summary": "Por que GTA 6 tem consequências reais para os crimes? Rockstar explica Em entrevista à Eurogamer, o chefe da Rockstar Games, Rob Nelson, revelou que o sistema de perfil criminal de GTA 6 foi inspirado em Red Dead Redemption 2 e tem como objetivo tornar…",
-          "published": "2026-11-26T19:16:00+00:00",
-          "image": "https://tl.ctcdn.com.br/vdWzKj3OyDGedwGP2tTNnMfbu4g=/1200x675/smart/filters:format(webp):quality(85)/728a63df-ee50-4cef-8950-e26f4314d7c5.jpg",
-          "source": "Canaltech",
-          "feed": "Canaltech",
-          "lang": "pt"
-        },
-        {
-          "title": "Black Friday: monitor gamer LG UltraGear de 32\" sai por menos de R$ 900",
-          "link": "https://canaltech.com.br/hardware/black-friday-monitor-gamer-lg-ultragear-de-32-sai-por-menos-de-r-900/",
-          "summary": "Black Friday: monitor gamer LG UltraGear de 32\" sai por menos de R$ 900 Se você está esperando a Black Friday para dar um upgrade no seu setup gamer, esta pode ser uma boa oportunidade. O LG UltraGear de 32 polegadas (32GN600) está saindo por apenas R$ 870,41…",
-          "published": "2026-11-26T19:06:07+00:00",
-          "image": "https://tl.ctcdn.com.br/vKRZuDOm9nf5Hr9F13MIGC8aHDU=/1200x675/smart/filters:format(webp):quality(85)/541932da-9c9d-40d5-b67d-cf73c5c5af7a.png",
-          "source": "Canaltech",
-          "feed": "Canaltech",
-          "lang": "pt"
-        },
-        {
           "title": "Vai viajar para o exterior? WhatsApp terá compra de eSIM pelo app",
           "link": "https://olhardigital.com.br/2026/11/26/internet-e-redes-sociais/vai-viajar-para-o-exterior-whatsapp-tera-compra-de-e-sim-pelo-app/",
           "summary": "Proposta é facilitar a conexão de quem viaja para outros países O post Vai viajar para o exterior? WhatsApp terá compra de eSIM pelo app apareceu primeiro em Olhar Digital .",
@@ -194,16 +254,6 @@
           "image": null,
           "source": "Olhar Digital",
           "feed": "Olhar Digital",
-          "lang": "pt"
-        },
-        {
-          "title": "Black Friday derruba preço da ASRock RX 7600 Challenger Pro OC com cupom no Pix",
-          "link": "https://canaltech.com.br/hardware/black-friday-derruba-preco-da-asrock-rx-7600-challenger-pro-oc-com-cupom-no-pix/",
-          "summary": "Black Friday derruba preço da ASRock RX 7600 Challenger Pro OC com cupom no Pix Chegou a hora de dar aquele upgrade definitivo no seu PC sem gastar muita grana. A ASRock Radeon RX 7600 Challenger Pro OC entrou em promoção nesta Black Friday no Mercado Livre…",
-          "published": "2026-11-26T19:01:58+00:00",
-          "image": "https://tl.ctcdn.com.br/8HqAkaZMWnbRdbCgOmnoCe4BX8U=/1200x675/smart/filters:format(webp):quality(85)/99719bf1-4822-4762-896f-102b9b193064.png",
-          "source": "Canaltech",
-          "feed": "Canaltech",
           "lang": "pt"
         },
         {
@@ -255,56 +305,6 @@
           "source": "Tecnoblog",
           "feed": "Tecnoblog",
           "lang": "pt"
-        },
-        {
-          "title": "X lança controle parental para jovens de 13 a 17 anos",
-          "link": "https://olhardigital.com.br/2026/11/26/internet-e-redes-sociais/x-lanca-controle-parental-para-jovens-de-13-a-17-anos/",
-          "summary": "O controle parental do X permite supervisionar até cinco adolescentes por adulto; a conexão termina automaticamente aos 18 anos O post X lança controle parental para jovens de 13 a 17 anos apareceu primeiro em Olhar Digital .",
-          "published": "2026-11-26T18:26:01+00:00",
-          "image": null,
-          "source": "Olhar Digital",
-          "feed": "Olhar Digital",
-          "lang": "pt"
-        },
-        {
-          "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
-          "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
-          "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
-          "published": "2026-11-26T18:00:29+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
-          "source": "Ars Technica",
-          "feed": "Ars Technica",
-          "lang": "en"
-        },
-        {
-          "title": "Hollow Knight: Silksong terá apresentação especial com novidades sobre DLC gratuita",
-          "link": "https://olhardigital.com.br/2026/11/26/games-e-consoles/hollow-knight-silksong-cherry-time-dlc-sea-of-sorrow/",
-          "summary": "Batizada de Cherry Time, transmissão da Team Cherry acontece nesta sexta-feira (27) e terá novidades sobre a expansão Sea of Sorrow O post Hollow Knight: Silksong terá apresentação especial com novidades sobre DLC gratuita apareceu primeiro em Olhar Digital .",
-          "published": "2026-11-26T18:00:00+00:00",
-          "image": null,
-          "source": "Olhar Digital",
-          "feed": "Olhar Digital",
-          "lang": "pt"
-        },
-        {
-          "title": "Temperatura global fica acima de 2 °C por sete dias consecutivos",
-          "link": "https://olhardigital.com.br/2026/11/26/ciencia-e-espaco/temperatura-global-fica-acima-de-2-c-por-sete-dias-consecutivos/",
-          "summary": "Terra soma sete dias seguidos acima de 2 °C em novembro e chega a 2,25 °C de anomalia na segunda (23), aponta o Copernicus O post Temperatura global fica acima de 2 °C por sete dias consecutivos apareceu primeiro em Olhar Digital .",
-          "published": "2026-11-26T17:57:04+00:00",
-          "image": null,
-          "source": "Olhar Digital",
-          "feed": "Olhar Digital",
-          "lang": "pt"
-        },
-        {
-          "title": "Melhor soundbar em 2026: 10 modelos para turbinar o som da sua TV",
-          "link": "https://tecnoblog.net/guias/melhor-soundbar/",
-          "summary": "Quer melhorar o áudio que vem da TV? Selecionamos as melhores soundbars para quem quer reproduzir música, filmes e jogos com máxima qualidade sonora Melhor soundbar em 2026: 10 modelos para turbinar o som da sua TV",
-          "published": "2026-11-26T17:49:30+00:00",
-          "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/lg-s60tr-guia-de-compras.png",
-          "source": "Tecnoblog",
-          "feed": "Tecnoblog",
-          "lang": "pt"
         }
       ]
     },
@@ -312,6 +312,46 @@
       "id": "carreira",
       "label": "Carreira em Tecnologia",
       "items": [
+        {
+          "title": "Avoid These 4 Rookie Mistakes When Launching Your First Full‑Stack Web App",
+          "link": "https://dev.to/jesson_mark_c8d4a5ea6aae2/avoid-these-4-rookie-mistakes-when-launching-your-first-full-stack-web-app-1880",
+          "summary": "Building a web app from scratch is thrilling, but beginners often stumble over the same pitfalls. Those early missteps can waste time, frustrate users, and even hurt your confidence during interviews. Below are four common mistakes that appear at the…",
+          "published": "2026-11-26T21:09:35+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Investir em IA sem redesenhar o trabalho não acelera resultados",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlBsR0NjdEJpZ3Fhc29kcmdfQnBKSXJhdzV0UkV2T1NENGxGLVNCZ3BOZXExb0NLNmRYcjlvNnM5aS1YWjJ0bWd3b1Q5M0dOMUp1MVVVUC05bTRYRFptWTBxU1BIUm0wN2ItZ2k0NTFPVGdSNDhBUjZPeGVBWGU5SUtzdEl0M0FDTDV5X3F1X0h0MUZQRE1qc3gycXJmUFh6eVZxNm9CV1FoaEVz?oc=5",
+          "summary": "",
+          "published": "2026-11-26T21:04:00+00:00",
+          "image": null,
+          "source": "viva.com.br",
+          "feed": "Google Notícias · carreira em TI",
+          "lang": "pt"
+        },
+        {
+          "title": "WARN Act and Your Car Lease: What Happens to Your Leased Car After a Layoff Notice",
+          "link": "https://dev.to/layoffatlas/warn-act-and-your-car-lease-what-happens-to-your-leased-car-after-a-layoff-notice-289n",
+          "summary": "WARN Act and Your Car Lease: What Happens to Your Leased Car After a Layoff Notice A WARN notice tells you your job is ending. It does not end your car lease. The lease is a separate contract with the leasing company, and it keeps running on its own schedule…",
+          "published": "2026-11-26T20:48:43+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
+        {
+          "title": "Companies that sponsor H-1B for software engineers in 2026, after the $100k fee",
+          "link": "https://dev.to/landedjobs/companies-that-sponsor-h-1b-for-software-engineers-in-2026-after-the-100k-fee-mal",
+          "summary": "The big US tech employers still sponsor software engineers. Amazon, Google, Microsoft, Meta and Apple filed the most certified H-1B labor condition applications for software developers in fiscal 2026 (October 2025 to September 2026), the first full year under…",
+          "published": "2026-11-26T20:41:42+00:00",
+          "image": null,
+          "source": "DEV Community · career",
+          "feed": "DEV Community · career",
+          "lang": "en"
+        },
         {
           "title": "Who is LoLoCoding without a job title?",
           "link": "https://dev.to/lolocoding/who-is-lolocoding-without-a-job-title-480m",
@@ -350,6 +390,16 @@
           "image": null,
           "source": "Governo do Estado do Ceará",
           "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
+          "title": "Cuiabá recebe evento sobre infraestrutura inteligente, conectividade e segurança digital",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2VPOWRNRUZEVjB1b2RUMklUNkpCb1dqUktEcUlSWDJKanU2NGRXdmhUak1YV0hvUlpUMHVwS1B4NWk0aGU5QlFmeUVVTXgyYXFpQWdCTzBSazVZM3VuLXhaTTV6Q1UxQ0FKTDdYLVp3UkFscjQ5UUptd3F4eFplZl9COVQ5ZWhHaUJkMFQyN3lqdXRuWWp5QXRJXy1uY1NJaGdpNi1CNnU4b3V6NEhZaGlkNG5EdWdvdWRsbUhmU0w5MklpRngxTWxuaHRZNDZKdHZlSU8yVjA1RTg?oc=5",
+          "summary": "",
+          "published": "2026-11-26T19:47:00+00:00",
+          "image": null,
+          "source": "Olhar Direto",
+          "feed": "Google Notícias · carreira em TI",
           "lang": "pt"
         },
         {
@@ -393,16 +443,6 @@
           "lang": "en"
         },
         {
-          "title": "Brasil ocupa 4º lugar em ranking global de felicidade no trabalho",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QcG9vU0lJbGR3U3MzQkJJQ09FQ1hqVnc5ZGNFUEpFVHRhcmNaLXFHOGNPeVlsSTBHZXM0Y2prUTRiU3B3c05SbDJZbDU1ZnY3aDBRMEluSjZfQW9qSjE5SHUydjFuYWZaWTdZSGJEei1Cek0?oc=5",
-          "summary": "",
-          "published": "2026-11-26T19:06:02+00:00",
-          "image": null,
-          "source": "SINDPD",
-          "feed": "Google Notícias · vagas tech",
-          "lang": "pt"
-        },
-        {
           "title": "Only 3% of open jobs on company career sites are entry level. Here is where they are",
           "link": "https://dev.to/makerio/only-3-of-open-jobs-on-company-career-sites-are-entry-level-here-is-where-they-are-44gb",
           "summary": "If you are looking for your first job, it can feel like every posting wants three years of experience. The numbers say that feeling is fair. I counted the open jobs on the career sites of 24,000 employers that hire through Workday, Greenhouse, Lever, Ashby…",
@@ -433,26 +473,6 @@
           "lang": "pt"
         },
         {
-          "title": "When Interview Prep Meets the Unexpected",
-          "link": "https://dev.to/aipluslabs/when-interview-prep-meets-the-unexpected-53ai",
-          "summary": "Here’s the frustrating thing about interview prep. You can spend days preparing answers, understand the role, practise technical questions — and still get thrown off when the interviewer asks the same thing in a completely different way. That made us wonder…",
-          "published": "2026-11-26T18:15:29+00:00",
-          "image": null,
-          "source": "DEV Community · career",
-          "feed": "DEV Community · career",
-          "lang": "en"
-        },
-        {
-          "title": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight",
-          "link": "https://dev.to/sprintshelf/resume-bullets-that-show-impact-a-three-part-rewrite-you-can-do-tonight-4kn6",
-          "summary": "Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight Most resume bullets describe a job, not a person doing it. \"Responsible for onboarding new clients\" tells a reader what was on your list of duties. It does not tell them what happened…",
-          "published": "2026-11-26T18:14:32+00:00",
-          "image": null,
-          "source": "DEV Community · career",
-          "feed": "DEV Community · career",
-          "lang": "en"
-        },
-        {
           "title": "Imersão gratuita celebra 25 anos de carreira de escritora de MT",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEVHUFVUQWJrOWtLeGJfaTk5ay10VFczVXVMZTE2c0JTeE1ObzhuNkQ0c2pxaXdYYmgwOHM2ZW83RTBzTGFhTzMxdXVjS2tla2ZrdU5yV002Rll3M1hBWElmMlVZaTFnVVgyM0ZzSnktRng1a2VacWxFaEpBeVdsM1pZcDVYTVFzWVFDcTJnVUdaX0ZiLWxNaGx0eUV5STlDajRXWUlJR3luOTU1NHozQmVjazllU1lZR0EwREhOTVZCa1dRTHhQMlY0WWdZeGRyZV9Xdg?oc=5",
           "summary": "",
@@ -464,11 +484,11 @@
         },
         {
           "title": "Confira os novos cursos gratuitos da Cisco na Fenati Academy; acesse já!",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01YTgxTnNJUG42b2ZOd3BJUjRrRDFyVmI4MzNEWU5yb0gtbl9HdjdISEtaSGN2Mm1WMjVPd0V3Y1dORW9vTEh2VXVpMmFLV2VMWU9UTTVZZ1E3Nk1iMzl2a3VEbWtONGVQQW5ZTUd4WlhGOHZDck55YVU3OWFMNUU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckg1QW1WOW5WN2FqOVBxdXRyMXROS1ZLUmZzSE1jQ2wyX29sdDktY0tEcHlUQU9Za0hZMzNPNFA2TlFha3NUOFZBWmxsNjNiTFlqVk9zOWV1eU5FZ0kxTUJoLWxLQjZVMHJnNUotZ291QThQbzZ1bUxIRHBCaGN4bnMxRWRHd0hqZlhoWTVHYzZPTmRqdUtmWXdtbHc1SmNsU3ZSbDFJUQ?oc=5",
           "summary": "",
-          "published": "2026-11-26T15:41:56+00:00",
+          "published": "2026-11-26T15:43:13+00:00",
           "image": null,
-          "source": "Fenati",
+          "source": "SITEPD",
           "feed": "Google Notícias · vagas tech",
           "lang": "pt"
         },
@@ -493,16 +513,6 @@
           "lang": "pt"
         },
         {
-          "title": "Brasil fica na 54ª posição em ranking global de prontidão para IA",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzMyenBYVTFfTGVTRjFyWFU3S1VtNGhHS2QwRWM5X1VoaEJRVTRXVVJNY01fTE9PcW5JUk4tbWN1ZlBhSnR5Zk01V3R0LVJudXFaa25GbVh5V3JncG1seDlnc3NxbjdFTUtMQzJLRjVOS0ZDS0d5WHlQUzlQQ2o0aW9aZ1FfUUpvQl92Z1dCQ2FJbGs1QzlLcVg0OTJSaDVB?oc=5",
-          "summary": "",
-          "published": "2026-11-26T13:06:47+00:00",
-          "image": null,
-          "source": "SITEPD",
-          "feed": "Google Notícias · vagas tech",
-          "lang": "pt"
-        },
-        {
           "title": "A IA agêntica tornou sua carreira de desenvolvedor de software obsoleta?",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjhJVzZwSk9BaDQyTnFrY1VXRk9aSFE2UWowSEdSN1dGTkpDeFYzenZ2SFE5cFlVTk9yaS1pV3NNYkpXdzBnNjFjYVpvSUY1dXRsbVN1NGdBVXM4Z1V0WVEzVklJRFJMNlY2dVRoTndGSlB5cE80NFhMM3c5N0lkSlI5TlluNlFfSVd4Y3RQNHZvNnZ1UkJLSFVtMjVWTXFaczBPQ1VyX2xTZw?oc=5",
           "summary": "",
@@ -513,6 +523,16 @@
           "lang": "pt"
         },
         {
+          "title": "Brasil fica na 54ª posição em ranking global de prontidão para IA",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EMm9kNFRtZk1HbWxtTmZRaU1pa2txSEpxSWNzSC10UkRUSjk3TU5RN3cxa0l0SWw4TWRIRFNCTVdGcHhUdzFpSTd5d0pTWlFJUlZWaEl4Q3BtbmlWcjc5Z3FXaTVqWmxWeU5OaVJJQm1WbEg3eUF3cHFB?oc=5",
+          "summary": "",
+          "published": "2026-11-26T13:04:04+00:00",
+          "image": null,
+          "source": "Fenati",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
+        },
+        {
           "title": "Imersão poética celebra 25 anos de carreira de Luciene Carvalho em Chapada",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1E2a2V2SFI4RlljUks1SEJReUJORDBjdUpkeXVrYlZEYUtleDV3QXpjUWVaakdQZzZ1OERIRC1ZNHcyc0pEV2VuampCNG5WRDlucWJ4LWF6bWhGakRHOGh3TUlHYXR0MWRqM1J1R0x5clBVVXNGNmJNRXoxQmFVRmxNLW8tN0NSakU5MlNaZExfZVJKdXY5MGgxWWRhdw?oc=5",
           "summary": "",
@@ -520,16 +540,6 @@
           "image": null,
           "source": "O Livre",
           "feed": "Google Notícias · carreira em TI",
-          "lang": "pt"
-        },
-        {
-          "title": "Sábado é dia útil? Confira prazo para pagamento do salário em dezembro",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qQ1BTakgyZ3lKYjBvM2lITlFvLWhiRTRRck5XSXZndG5Ea2Z0UjJENzc3cG1sUmpjTVN0SV8ta2xmWTBudWxRX01IMXAtWUxST3JIaEpXUU5MY2NMVERLZ0RBY2R4MUtidlJCVEJTd2F2MGlFSUE?oc=5",
-          "summary": "",
-          "published": "2026-11-26T12:54:06+00:00",
-          "image": null,
-          "source": "SINDPD",
-          "feed": "Google Notícias · vagas tech",
           "lang": "pt"
         },
         {
@@ -553,16 +563,6 @@
           "lang": "pt"
         },
         {
-          "title": "Concursos Nordeste: oportunidades ATUALIZADAS para a região",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CSFdxUWdERndVa0E3aE81MEE0WG5RMDM1TWtUVXpkNkYydVYwWW1fZXA3Tzk3LUZkQXFoMkcxaUNlSmNWMHhJYTVPdldwVW91NS1MR1RMODBMdEUwR2xKVWZzZmU3bGRucXRJ0gFwQVVfeXFMTUJ6UGl0Mjh4NWZ3ZU9VYnZpbDZUMTJfN0p3a0dPNlpSU3JiTzVvTlk0WlUzMWdjRG9VdTNFVUhQV0phYTFyMGl1S0dtNUVIU2hHTHFxemhvV3A1MGR6ZnBIdjUyRUlIYzhiT3pfMmVmXw?oc=5",
-          "summary": "",
-          "published": "2026-11-26T10:20:00+00:00",
-          "image": null,
-          "source": "Estratégia Concursos",
-          "feed": "Google Notícias · vagas tech",
-          "lang": "pt"
-        },
-        {
           "title": "A Gente Sabe Que Faz Mal. Vai Lá e Faz Mesmo Assim. Por Quê?",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTngwY2NrWUJTRUhmU1Z6SjNoS2pzS2szdGJWem9OaVp2dFA0Yjlfc3d1Y2l3UVV5MEVKejlBSVJpOEhZd1JxV3pnWmk5N2l3ajN4RmNwNV9FN3hXSlMyNFdnb2VJcG1ManFUd3RYNFBzUzJJMWxiMVpGb18yUms3LXZReEpRa05lMGFNYkstZDNwN3E5WU03RVRESEF5cDUwa01yQzdZdWZlN3FPbkNV?oc=5",
           "summary": "",
@@ -583,34 +583,34 @@
           "lang": "pt"
         },
         {
-          "title": "5 habilidades que você precisa ter para alavancar a carreira tech em 2027",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVNpREU2am5EX3NKOHgtSXNKd0pXdUg1cFdpMWphcUEtVlBFdWZicXl2ejJ2b0g2dG4zSkZ2SkNfYldPaUFnZFBYbVlGNmY4OU5PdkdhWHhHazg2NVg0aWZvZHJDbWFOUmZtVTJXVHhiaG9ZUzFveGVVdkxNNk9Pd0tIaHBYOG5IZmQ4V0Rtb3QyTVphQTRFYjRaN0NQYTB5TFc4WGtrM3VvVS1J?oc=5",
+          "title": "Concurso IBGE 2026: 27 mil vagas; inscrições até 30/11",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tek11S25kbjdjb0NRYXItZVZoQTRRekpwUlhPLVNqS0Q1ZlVwVUtYUFlXYUtXYkUxNV9aZ21SS0tBdTQtajY4QUo2ZFJKQ1ZxMmlyNDlyVnZncVpUdlRZLUtIWUjSAaIBQVVfeXFMT2kwbWJ6YjE2TFhuMlByeV80OGowSlg4b0FScXN5SzROMjAzbC1xR19Fc3pQZVNweE8xMFdVaHNISXBvWllrc2tvSlpoMS1KZUtQdVVVYmFUZzRjV0duOUtpLTRGYUIxeDhIeEZrR1dvaG03NFFzTDNvVlZkRW1RVzV0ZWVvY0Z5N2ZYOUtCY2Zzc2hybHh4N25oUVhJVE5hWVp3?oc=5",
           "summary": "",
-          "published": "2026-11-25T20:51:13+00:00",
+          "published": "2026-11-26T05:53:00+00:00",
           "image": null,
-          "source": "economiasp.com",
-          "feed": "Google Notícias · carreira em TI",
+          "source": "Estratégia Concursos",
+          "feed": "Google Notícias · vagas tech",
           "lang": "pt"
         },
         {
-          "title": "Concurso Cofen 2026: edital publicado com vagas para nível superior",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWW5GUWdkTFJacVN4VFZ0TUJpUDFCeS1pamZvV2RVejRBRm5meGZUMXhJZVBTU2VVS2daYUlrcDRwNmZOLU42ZkVVeGhCY3BMU0hhZ1VTZFpsMHpQRndIYXhEdXRwSWtWamNtem0yTElDODl5cVNnaGVoNjJIMS1xc25xRW5lQnJZdVhFcEFOS21xcldBZGMweGJ1dHQzSldSRnk4TVVBUWU2bWZDS3NLTFZINHRDdGF3VlVN?oc=5",
+          "title": "Concurso TRT 4 (RS): iniciais até R$ 18 mil; provas em janeiro!",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4VmFaWE1ENG1Ebk1WWlRmSVVSVHRmbHNnbzZMcWtuMUhmY0E5UXgwOHY4VU9hT0dmcmNGVVVnQmR2LUZwSUptQXdMQ0JMb21kS0tqWjdhZDFfOVF6RXNRMktuQm0tMEXSAWxBVV95cUxOTE0tU1diV2pmdTdGOXNHTWcyOVF5VnRWeEM3dXc4VTlUUmJjUHROVk4yd1Q3T3BnOEVvUXlvYk45djZtTW53T3dyczFZQUhWUmhYdzR2b2JPa0Q0YVF5WDlyNUlGa0JUOWw2REo?oc=5",
           "summary": "",
-          "published": "2026-11-25T20:24:37+00:00",
+          "published": "2026-11-26T05:41:00+00:00",
           "image": null,
-          "source": "Educa Mais Brasil",
-          "feed": "Google Notícias · carreira em TI",
+          "source": "Estratégia Concursos",
+          "feed": "Google Notícias · vagas tech",
           "lang": "pt"
         },
         {
-          "title": "How Wearables Can Turn Your Body Into a Dashboard",
-          "link": "https://www.freecodecamp.org/news/how-wearables-can-turn-your-body-into-a-dashboard/",
-          "summary": "Have you ever found yourself waking up feeling perfectly normal and then being told by your wearable app that you've slept poorly? And perhaps not only that, but somehow finding yourself starting to f",
-          "published": "2026-11-25T20:11:21+00:00",
-          "image": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6103d1de-159f-474e-9981-b1c84778c5ff.png",
-          "source": "freeCodeCamp News",
-          "feed": "freeCodeCamp News",
-          "lang": "en"
+          "title": "Plataformas digitais e IA transformam a experiência de aprendizagem na educação a distância",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYVpfcXNsQnh1YjdqR3F2ZjdYZ01ZOU9uV2UtVUZZU0xhdkdfVEFrUm9Nb0lLUklNbkUtek5NRHViUm14VUpTUzFIWktieGwtV290VnJwWktnd1VMenR2aE04U2dMRTlwTjY2dzFSQ1RmODdoT1YyQlFXSjJleGZTaXN6Vnpjb1VRMHNHZjJUQlZ3Q0d3UDhJM202Z0hxeHZ5d1V5ZTkxT2pjQ2JreGZiQV9QQ3VETlV5RTE3ZGdSUkFLR2VaVHc?oc=5",
+          "summary": "",
+          "published": "2026-11-25T21:59:59+00:00",
+          "image": null,
+          "source": "TI INSIDE Online",
+          "feed": "Google Notícias · vagas tech",
+          "lang": "pt"
         }
       ]
     },
@@ -618,156 +618,6 @@
       "id": "ia",
       "label": "IA e Impactos",
       "items": [
-        {
-          "title": "Prefeitura promove em Uberlândia o II Fórum Regional de Gestão Humana no Serviço Público",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3lXN215NDdNekdWeDlxRWpxeWRoRWRpeGhjMzJYY3NNUmVGVHhQVlB6S2NzeF92MHp3LUhKLUtERkxuRmk5WWFUMVZXSVdLWHViY2lSQnpMTHhmOFFDSG1BNmJxbDN3YVRwR3FVcHFBX2NDdW9iMU55Tkdtd00zTGw1R3dUQ2NjcEhIT1VGRnpxR3l3eWRQUHBFbUVwY1FSeS13Zk9kYzVsYTlibHRhdnM5SWpPMlZSMWJYU2FmUkN4Tm01eEFaQ2MxSHBQZw?oc=5",
-          "summary": "",
-          "published": "2026-11-26T20:25:11+00:00",
-          "image": null,
-          "source": "Portal da Prefeitura de Uberlândia",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Da inteligência artificial às empresas milionárias: as lições de negócios em expansão do Recife",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUVCUzJYTUYwLVBLSVY5QTVjeGJqZFZtYnhHbDJ1VFF5RVRDNVpGZFNWbkRSMzh4VVRtbmNob1V6TnNUdkF6djJ1c1JaVWRBclVwa0hGUUE0Tk9Hb3NxLWxadk5tZXRkM2JNQmVSVG1Ua2RZTkZxbEtlSjlrY2dOM08zYkhQUDJ5c1ZGLUZQZmZCZEFxdzJtbWJKZ3V0eFNmVm5fajg0cWRPakNGR2RUNHVkYk9GVDl4SUl3VlYwWQ?oc=5",
-          "summary": "",
-          "published": "2026-11-26T20:09:47+00:00",
-          "image": null,
-          "source": "Exame",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Inteligência artificial na educação: diferentes caminhos para um desafio global",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXFrbVpWUGpwaWVpVk55MHhpRjcxZkxMQ1lwTmNIWmNBaGFmeW5kdk5lTVA1ZzhFWENnVW1yU1lCSFZNeUZQandFQUJpV0c2bUotOEZKUUYwcHN3Q2VGWWdtMmRxNTNjZ2cxeWZvUHh3TndqU05lUEZNbk1mX2hteFREUnRtekRmV2IzUTFGaldBMFUxYm5uU3VWODlXd3pGTTREVlEtMlJLdHpJaHU5ZTdRWGFqWS0yMWJlbw?oc=5",
-          "summary": "",
-          "published": "2026-11-26T19:51:00+00:00",
-          "image": null,
-          "source": "Canal MyNews",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Webinário discute uso da inteligência artificial na área da saúde",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlFUd2dqakp0S25yX0ljZ3ljX0FhbDR2WEN0X2JOYVRIeG5IZ3JKMDFiS2p2LWdEQnBxbDdUUTNjZEREUjQ3SGFtVExTTG9HTWhnV1JZXzBfSk90Tkw1UFJSRXVFWkFNTHpPckRLbV9pMHlQT0k4WVhTdFZhWFFMZ1pWb0xXZWRHaWczVHhfWnA4RFNsc1RWM1F4MHh6dTF3ckhvTUtUQXdhN09yU3Jv?oc=5",
-          "summary": "",
-          "published": "2026-11-26T18:51:00+00:00",
-          "image": null,
-          "source": "Jornal da USP",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Parlamentares querem cibersegurança no PL do Marco Legal da Inteligência Artificial",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3NWUHl5UlctM0RScHZzU2ZLQVZTVEhDeDZITXFKNjA1NkNqUENXZU9EZmlDa1h0V0xGY1RiVkhxWlNqcGtjV283ejh2VXZBaFhyT1N3QTlXQUR3eThubDM0blh3dzZoNm9SWXpMbklOTmsxdDAyZnNzMTN2VXNLdVExaGlQcEUzd3NpVktXNW1GOTQteWJFSm5LU2lWTkJhUHNoaktkZFFFZXNOdGpIT3VfR2syRWFHVFBXV3gzNWhsb29PZEE?oc=5",
-          "summary": "",
-          "published": "2026-11-26T18:31:58+00:00",
-          "image": null,
-          "source": "ConvergenciaDigital",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Empresas de uma pessoa só: como a inteligência artificial está transformando o empreendedorismo",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMlVJN0FOcFMtM05IT2Mta09yVUN2MnVGcDV3QmtEOGs0UTUteDI2WElFTnZVZHk0TFdUMnV1NGxHZ2h1NmNES3JnNnlXbnRlTHYzbmlpSkJUMWlGNlFkdTR2UGlzZzk4UDNia2c5WEdJWXI2MloyaHJkT1JaQXVXZk40Ul9RS09JdFZOV0pNZHZJOU1XS0djQzBNa3hWdF8ySFdxRUM3QXdLVUp5MGdzdU50dV8tZ0RTdUxsNWlmbDcydjBCUm1sVzAzSHh4VDJPZjdxZjl4M3ItQk5BQU5RUUdJVkxIZ1BRZVg0SDZKczVTaVlhQWNROVUzRWY4VzZzRHNhYmd2ZHZpSFNET2dj0gGeAkFVX3lxTE1tNFktZ0ViZDFHaVRFbm9lLS1rcHM4YWZFR3Bta2Z0ZUZ1R0piUmpWcXRWc1lyMEVCX1hGNTlLcjFHMmhpaUhyVGJzVlBxdlZUQ0JONXAtRXV3bjFTZktQS0t6SlRhTGhnWU5GZ1pmbHN4NElZTzRNUVEweFp0N0VuMWxMZDhUWjJISkRoX0FZdkl3ZV9oVlJTVEZmZ0JDT1dadjZVR09QSUwwNW5zbHVva29DaTJwdDNrbGVhYjZ2S09KSG53MmhnRnBDaWJjZ0pNa3JPVEtDTElra0QwaF9reW9FZGhIOEV4alJOSkh1MDFNc1h4b1VMdy1mSEhXc3hFSFNTOVRySnd5bzRUb0RTOHVkRWpIaWM5X01JaVE?oc=5",
-          "summary": "",
-          "published": "2026-11-26T17:55:22+00:00",
-          "image": null,
-          "source": "Globo",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Audiência vai discutir inteligência artificial e novos riscos cibernéticos",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTlB3QVE1YTR1LUZkOVdtUWVSZHpBWHJGUnUzY0sxNktQeFAyTTdMNHFaanBGVjdpMW5DYTVDbmZDUTVkY1hhUEhKOFRwZ2pZLVBDS3RSdUpjamxqMDUycGJYZkZmVnRSQlB5cFp2RHEyanlySHJSXzVoVXhVSC1LU2YwSE1GeGdnT01DdkFzd29iMHdzZ3lSbmhpaEE3bTFPUFN5UjR6SEVkVXlnM2lhSlJEZU9rc1N0MUY2a0pvdk0tUEVUcWhMUg?oc=5",
-          "summary": "",
-          "published": "2026-11-26T17:33:00+00:00",
-          "image": null,
-          "source": "Senado",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Com foco na inclusão digital, Senac-ES leva curso prático sobre segurança online e inteligência artificial para público 50+ em Itaguaçu e Santa Maria de Jetibá",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZ2hQNS1tOHlTQ1lSbFFJQ1ZfVk9FNHluYzMxbVphUG1lZi1zY2pXV3ZnZGhrTk1oRU5XRW00WnYwRlF5Q2E4cWgzZlZka2FlOV9RTXVQdkhzdkltQ1JZSjZMTHpxZFcxbmtGNU5HZjVrcTMweDRUNlJNenNyUHowOE41dHoyemJpT0doZWFsbFZ3dHlZRTNaVDR3YW5LOXU5TFFaZUFlUktKQjhxV2RwUGcydXkySmE5Y0lNeWp6Mnl0cXhLU3c0Y2c1RFlkcHlGc3J6M1MzNm4wcmVyMkFLQjdGaFBoeVlxa3pzaWY2SDBMUzk4aVZCc2tTTFFROE4zLWxUaUt6UUtBbmRndEg0eWI1NDJKY2x4SDFYbS0zS20?oc=5",
-          "summary": "",
-          "published": "2026-11-26T17:22:03+00:00",
-          "image": null,
-          "source": "senac es",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Webinário vai discutir oportunidades e desafios da inteligência artificial no SUS",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjlLLW5GZkhLRGxrME5wb2ZYUEEwNThYeVc3VExJdlk3OXYyVlRsN3NJRVpxeFRrbFdsYlo1T3FWd3JEN3dPVnlwNTFuZ19lQnBreW5NeGlXZWxGVklDc2ZpUEpfMTE2M3pGeHV6eFRBSWlMbVlFRGxVYVdwUENGT1NSWWhkRndPOFNNLTJ1U1RhVWZ6Z1Myd25sRF9PRHhYNk9lOWxvSDN1MVA5QlhZNTY1UHBHd2xaUVppaWNBUlVBRHoyQ0dYZ0REQmhRX19LWkw0eGFXX3BYNmFYRVE?oc=5",
-          "summary": "",
-          "published": "2026-11-26T17:14:11+00:00",
-          "image": null,
-          "source": "www.gov.br",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Câmaras Técnicas do Coren-SP fazem pré-lançamento de inteligência artificial voltada às questões técnicas da enfermagem",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTEdXZWY3S1dadnpLSk9CTFR2ekYwS0E4cWZjVHIxU0RvaHVlLVV5cTkyWlllQmRvQUl6aWs4VEtabEVleWZFLWdtUHN6dU85OVNsSE1kTVRkZzRVcUUtVlBlSlhtTUcxdWVTM1o2dUVCOGkzUFIydDFhRUV1RFpGRXlYYWVPMDBBNldKYVBQQllzenRtM3RvOHhZd2hGeUFtR3ZoSzdXak1nWlcyV2FwNl9HVjRzOTI2VmpqbURuYUhhVHBVZDhyQzZmSkplQ3JRZUtwWXYxSHZoaTQ?oc=5",
-          "summary": "",
-          "published": "2026-11-26T17:03:20+00:00",
-          "image": null,
-          "source": "Coren-SP",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Papa alerta para riscos do uso militar da inteligência artificial",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVlpLW15Ym9yUTRQellGTnhERFFQcHRoZkdBZWpvblg0UmctaHgxWVdfVXJLWkJHYkFjeUFHU00wQ3MtTUt5YjFtWXB0R2VDTjgtT3V5YkJ1UVBzWWp5SUpmOG90UUsxd2drc2xEQy1xbkxib1Bna0k0NkoxV1lpTk83X2k2X3MxQVRzaExDRVlYOHk0bTdBNzZQbWhKcGFSYTBZZzNhaFFpbVZjQ29nd09SQ2M?oc=5",
-          "summary": "",
-          "published": "2026-11-26T16:54:34+00:00",
-          "image": null,
-          "source": "Poder360",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "SENGE-MT realiza Circuito de Palestras sobre Perícia Técnica, Tecnologia e Inteligência Artificial",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTduc0JLN0p6ZmVnTUdTWVFtdzNrcFoyMzNRNVlQMUV2T3MzV21SQ05zWDZsaW1FVjZMY1k3cnRad3h6bDd1QWNkMG1PZ1BuV1NxNERWSHJ5STF0aEdpSlpqc290b202SmlDTVROUHJzaTBkbGdlZERoTHFBUVZ5akp1UWZJaEsxdlFfcjlfc0UtOFNaSXlFZ2tvdlhldUtzYW0xWkpEVmZzTHFxWVZWME5lcFIxd2NBSDVsU3RRN1JZTURyTjk5YUsweUU?oc=5",
-          "summary": "",
-          "published": "2026-11-26T16:43:00+00:00",
-          "image": null,
-          "source": "Crea-MT",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Espetáculo 'Eu, Você e a Coisa', sobre inteligência artificial, estreia no CCBB no sábado (28/11)",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN193cnhkMTFETFJMb2MxT1NyeW9tS1dRbTBPQ0RQQ1dZbGVWNWZsZzZUZ2pfUUpBMG5BQlVHR3lHejZWWG55TURiVUR6b0RaZ1V1bkFaUHBZMFNZdWoyWTJVZjVwbE5xdnE3VUFiZFQ4SlByRFo5dkNyb08xTmlRLVdUWlVjd1NBMW9aLUpUaWZvY01aUUJGaG5wMTFZeUQ2bzdtQWhEQndyUTBuc3hhbXFXUlo3NmdMRTFGQmJFejhqd2dHVjh3UlVrNVdvNHJpbmV4LVQ0TEJmUQ?oc=5",
-          "summary": "",
-          "published": "2026-11-26T16:30:29+00:00",
-          "image": null,
-          "source": "O Tempo",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Inteligência artificial é discutida na programação da Semana ARP",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1BxMU5FbU11cm1Lb3pkN09SNVVYNVVWSjA4aXRBa09kSGNLZnNaRkZjaDlQaHNneTRTLUVpa2pLZEpZNGpjRFZ0X0RFWFFOVHJoTXZ0aWVvUTFLZnFhZWY4MTJnQmpUVi1BTUZzWkh5bmh3dV9uQmhpYU9hQW5kYlVOU1BwYzctb2xuWmFKM01QcnU0NUY2NGZkZw?oc=5",
-          "summary": "",
-          "published": "2026-11-26T15:58:32+00:00",
-          "image": null,
-          "source": "Coletiva.net",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
-        {
-          "title": "Curso aborda aplicação da inteligência artificial no serviço público",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMlZBQXgzXzBuZXBBN2lnemE5TlVLcDhCN0luX3RiRDRuR2g3RWdmUEZ0SWw1TnNTUXpOSk95bDNkTUctSk9hanpkcFFJYktuc3BJUVVvSEV3OTdxMnhNbmtZUkhNWXZnMXlyMllJN0VueTdSN245T083T2xIcEU5YjVDWUl1dG95am1TNXVGUXJtUExxb0gwZlhZYTlPdHRYV3JwS2drRkR1R3R1SXZNOUNseUt5RkhMS3M5LWt3M3RlOW15ekpYYw?oc=5",
-          "summary": "",
-          "published": "2026-11-26T12:55:00+00:00",
-          "image": null,
-          "source": "Tribunal Regional Eleitoral de Mato Grosso",
-          "feed": "Google Notícias · inteligência artificial",
-          "lang": "pt"
-        },
         {
           "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
           "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
@@ -837,16 +687,6 @@
           "source": "MIT Technology Review · AI",
           "feed": "MIT Technology Review · AI",
           "lang": "en"
-        },
-        {
-          "title": "What's going on with the Riemann hypothesis?",
-          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-          "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-          "published": "2026-11-24T20:34:53+00:00",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
-          "source": "Ars Technica · AI",
-          "feed": "Ars Technica · AI",
-          "lang": "en"
         }
       ]
     },
@@ -903,16 +743,6 @@
           "source": "Towards Data Science",
           "feed": "Towards Data Science",
           "lang": "en"
-        },
-        {
-          "title": "NVIDIA abre dados e receita de fine-tuning para o Nemotron 3.5 Parse, com inferência até 6,86x mais rápida",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck1KSHdHS3BIWDZSd1VHZWsyTzF1Mm1NZ1l0WlozYXNSSl9vWWl2Z0xFMkREVDNIZm84MllVVHBFQ0llZGZaSGVhMFJ4aWxXTFJCVTdWbHViS09oMTlxOGZFRi00dS1RSlQzS3NJZGk1Y0hiWkRfUFY4SXFqSGhKR3gwVjQxYm5Vck9zTlFnRE5zTGh2WDktSEtpaXpuTmZNMEtLazN6bGVIVG00clNOT3lKcUhuTzdINHFMeE1DWjA1dGlCYVNJ?oc=5",
-          "summary": "",
-          "published": "2026-11-26T13:33:33+00:00",
-          "image": null,
-          "source": "iMasters",
-          "feed": "Google Notícias · ciência de dados",
-          "lang": "pt"
         },
         {
           "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
@@ -975,22 +805,32 @@
           "lang": "pt"
         },
         {
+          "title": "Fórum Nacional LGPD-JT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjQtSEZhT1lHbHliUF9QT2p4Nm1LVlVocTdGWFJYY3NERFJyN0pZaEdJRVE4NE5UM1ZGRW5JN2JkNnBhMUkwQkFCSzZrTm9SZXdvaFd1bk5kUUxuSnhxQm1taFR2QVhpOXNuUGZJM0hBZV96NUpuSHVfd2lmSzZJRlRid3VFNmw2aGllWTFYTjB3eUZQbUFENGJoOG1laExyeFhsbmdnUEJlR09q?oc=5",
+          "summary": "",
+          "published": "2026-11-26T03:19:08+00:00",
+          "image": null,
+          "source": "www.trt1.jus.br",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
+          "title": "Novo curso de Estatística e Ciência de Dados será ofertado pela UFPE a partir de 2027",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEZUZEVLcWpvcjdYTFJkbkVlLXdNSW1EbWk5TjRPYmhNQzBnVWl6Qk5SSlRzZ2JHbHctX05JN1hkcGhLY01LY1hqUmlBTHBOUi1PN0gzYXJVS2pLOUR1NjlHaENrbWdlVU5GMC1DVE44TGpMb3VuOHFwU2hhQlhHeGs2Y0FPaEFkSjdYMnNGdTVtS3YweXJBdThsQXRUV3h3RC1rSEhDMVQ2U1pWM2M3ZQ?oc=5",
+          "summary": "",
+          "published": "2026-11-25T23:09:00+00:00",
+          "image": null,
+          "source": "Rádio Cidade 99.7 FM",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
+        },
+        {
           "title": "LGPD não pode ser usada para esconder informações públicas",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUdfaGs5dXdVMnhhYUExZldVd2w0Um14R2Rja0ZKVTJRNURFUl9kNHIwUkxQTVkxMkhxLWhWSnBaODJlMkhCQmRmM1I2LXBSU3pfNGlha3RPdTlIbVJkdC1CR1BVQnJJc1Zsa3p2VFcwQWF4M1pMeXJncjRNOUtRa3dRcEhLTHJMUXc1VGJ2dDJnNW8?oc=5",
           "summary": "",
           "published": "2026-11-25T19:39:44+00:00",
           "image": null,
           "source": "Capital Digital",
-          "feed": "Google Notícias · ciência de dados",
-          "lang": "pt"
-        },
-        {
-          "title": "Comunicados",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOR0dRNlA5dlAteXRxMmR0UGZreF96bzVWNmxHRGxGSVNFd2RTRXZBVmZlS2lMWWtxRTV0YVQtZGtwRE0weklkWmV5aGtFTkFzOGhuVXpwTTdTemFBa1hkUVVSR0N0bEVhSEpXX010cV9Xb0xmOFJ0U1VXdGZIMkdxTUtEMW1jSjQ1Qm96TWdKR0VjbTNGZDAtQ2pOM1c1S3pYVEdGTmszLU9uTmp0YUpFZE9iM3BfUVZwZG1BX09BVWNDUl9zLTA1U3BGU2xOU1h0cHYzN3pXVGg4ckd2cmUybDJzYzFNS2ZmQ1hMTG1rVUItSDhmQzBUb2txOE9FSElyMGJ2SkRoNmZuUHpFczJJWkhhbFhJRFBTaXUtWlI3eFBVS081?oc=5",
-          "summary": "",
-          "published": "2026-11-25T18:56:23+00:00",
-          "image": null,
-          "source": "Secretaria da Educação de SP",
           "feed": "Google Notícias · ciência de dados",
           "lang": "pt"
         },
@@ -1023,6 +863,16 @@
           "source": "KDnuggets",
           "feed": "KDnuggets",
           "lang": "en"
+        },
+        {
+          "title": "UFPE cria Curso de Estatística e Ciência de Dados, que integrará grade a partir de 2027",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3QtQzkzNHFUd3JTQ2tXdm45WVJIUHc0LXZyLUR0M2JPNWxrUVNJemc5X3psQ21EWWI2NkRfS2VKVWdIVTQ1eTF3emZ4d2tuVGR6bUNvWlBuTGZXeS00TzZwbmtRM21NOXlqRV9qUG1fbXVJSE1EV09ZSHFZdHlfa2xVZC1mcGNjX2VJYnhsVEtLTjhCN3NadFZuMmJtekw4WDZOWk0zb0JfTDI0eUJlV1lnZVNqXzjSAbcBQVVfeXFMUFd0LUM5MzRxVHdyU0NrV3ZuOVlSSFB3NC12ci1EdDNiTzVsa1FTSXpnOV96bENtRFliNjZEX0tlSlVnSFU0NXkxd3pmeHdrblRkem1Db1pQbkxmV3ktNE82cG5rUTNtTTl5akVfalBtX211SUhNRFdPWUhxWXR5X2tsVWQtZnBjY19lSWJ4bFRLS044QjdzWnRWbjJibXpMOFg2TlpNM29CX0wyNHlCZVdZZ2VTal84?oc=5",
+          "summary": "",
+          "published": "2026-11-25T14:01:00+00:00",
+          "image": null,
+          "source": "Folha PE",
+          "feed": "Google Notícias · ciência de dados",
+          "lang": "pt"
         },
         {
           "title": "DuckDB 2.0 vs Polars 2.0 in Five Real-World Tests and One 14x Gap",
@@ -1157,7 +1007,7 @@
       "url": "https://dev.to/feed/tag/career",
       "lang": "en",
       "ok": true,
-      "items": 11,
+      "items": 12,
       "error": null
     },
     {
@@ -1174,9 +1024,9 @@
       "name": "Google Notícias · inteligência artificial",
       "url": "https://news.google.com/rss/search?q=%22intelig%C3%AAncia+artificial%22+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "lang": "pt",
-      "ok": true,
-      "items": 15,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "category": "ia",
@@ -1202,7 +1052,7 @@
       "url": "https://arstechnica.com/ai/feed/",
       "lang": "en",
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": null
     },
     {
@@ -1211,7 +1061,7 @@
       "url": "https://news.google.com/rss/search?q=(%22ci%C3%AAncia+de+dados%22+OR+%22dados+abertos%22+OR+LGPD)+when:3d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "lang": "pt",
       "ok": true,
-      "items": 13,
+      "items": 14,
       "error": null
     },
     {
