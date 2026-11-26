@@ -15,6 +15,8 @@ import html
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -135,13 +137,21 @@ def parse_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
     return [i for i in items if i["title"] and i["link"]]
 
 
-def fetch(url: str) -> bytes:
+def fetch(url: str, attempts: int = 3) -> bytes:
     req = urllib.request.Request(url, headers={
         "User-Agent": USER_AGENT,
         "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
     })
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-        return resp.read()
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as exc:
+            # 429 (muitas requisições) e erros 5xx costumam ser passageiros: espera e tenta de novo
+            if attempt == attempts - 1 or not (exc.code == 429 or exc.code >= 500):
+                raise
+            time.sleep(4 * (attempt + 1))
+    raise RuntimeError("inalcançável")
 
 
 def collect_feed(feed: dict) -> tuple[dict, list[dict], str | None]:
@@ -161,8 +171,34 @@ def main() -> int:
     cutoff = now - timedelta(hours=args.max_age)
 
     jobs = [(cat, feed) for cat in config["categories"] for feed in cat["feeds"]]
+    google = [j for j in jobs if "news.google.com" in j[1]["url"]]
+    others = [j for j in jobs if j not in google]
+
+    def run_google() -> list:
+        out = []
+        for i, job in enumerate(google):  # um de cada vez, com pausa, para evitar o erro 429
+            if i:
+                time.sleep(2)
+            out.append((job[0], *collect_feed(job[1])))
+        return out
+
     with ThreadPoolExecutor(max_workers=8) as pool:
-        results = list(pool.map(lambda job: (job[0], *collect_feed(job[1])), jobs))
+        google_future = pool.submit(run_google)
+        other_results = list(pool.map(lambda job: (job[0], *collect_feed(job[1])), others))
+        google_results = google_future.result()
+    by_key = {(c["id"], f["url"]): r for r in google_results + other_results for c, f in [r[:2]]}
+    results = [by_key[(c["id"], f["url"])] for c, f in jobs]
+
+    # Se um feed falhar, reaproveita as notícias dele da coleta anterior (ainda dentro do prazo)
+    previous: dict[tuple[str, str], list[dict]] = {}
+    if OUTPUT.exists():
+        try:
+            old = json.loads(OUTPUT.read_text(encoding="utf-8"))
+            for c in old.get("categories", []):
+                for it in c.get("items", []):
+                    previous.setdefault((c["id"], it.get("feed")), []).append(it)
+        except (ValueError, KeyError):
+            pass
 
     seen: set[str] = set()
     seen_titles: set[str] = set()
@@ -171,6 +207,16 @@ def main() -> int:
 
     for cat, feed, items, error in results:
         kept = 0
+        if error is not None:
+            for old_item in previous.get((cat["id"], feed["name"]), []):
+                pub = parse_date(old_item.get("published"))
+                key = normalize_url(old_item["link"])
+                if (pub and pub < cutoff) or key in seen:
+                    continue
+                seen.add(key)
+                seen_titles.add(re.sub(r"\W+", "", old_item["title"].lower()))
+                out_categories[cat["id"]]["items"].append(old_item)
+                kept += 1
         for item in items:
             pub = item["published"]
             if pub and pub < cutoff:
